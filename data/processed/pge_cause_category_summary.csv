@@ -1,0 +1,9 @@
+cause_category,outage_incidents,total_impacted_customers,avg_impacted_customers,median_impacted_customers,avg_estimated_restoration_hours
+Unknown / Not Provided,56,4713,84.2,1.0,6.33
+Public Safety,6,1507,251.2,238.0,
+Planned Work,77,1283,16.7,5.0,6.82
+Inspection / Patrol,16,1000,62.5,1.0,6.0
+Repairs / Replacement,6,214,35.7,6.5,6.24
+Equipment / Underground,5,136,27.2,16.0,14.92
+External / Environmental,4,80,20.0,23.0,28.56
+Under Investigation,2,20,10.0,10.0,3.46

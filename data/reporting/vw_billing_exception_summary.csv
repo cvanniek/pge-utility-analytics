@@ -1,0 +1,2315 @@
+billing_cycle_id,customer_segment,county,exception_type,severity,resolution_status,exception_count,affected_accounts,open_exceptions,in_review_exceptions,resolved_exceptions,high_severity_exceptions,medium_severity_exceptions
+2024-01,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Agriculture And Water Pumping,CONTRA COSTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Agriculture And Water Pumping,CONTRA COSTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-01,Agriculture And Water Pumping,KERN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Agriculture And Water Pumping,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Agriculture And Water Pumping,KERN,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-01,Agriculture And Water Pumping,KINGS,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Agriculture And Water Pumping,SAN JOAQUIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-01,Agriculture And Water Pumping,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-01,Commercial,ALAMEDA,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-01,Commercial,ALAMEDA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-01,Commercial,ALAMEDA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-01,Commercial,ALAMEDA,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-01,Commercial,CONTRA COSTA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Commercial,CONTRA COSTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Commercial,CONTRA COSTA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-01,Commercial,CONTRA COSTA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-01,Commercial,EL DORADO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-01,Commercial,FRESNO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-01,Commercial,FRESNO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-01,Commercial,GLENN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Commercial,HUMBOLDT,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Commercial,KERN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Commercial,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Commercial,KERN,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-01,Commercial,KERN,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-01,Commercial,MADERA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-01,Commercial,MADERA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-01,Commercial,MERCED,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Commercial,MONTEREY,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-01,Commercial,NEVADA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Commercial,PLACER,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Commercial,PLACER,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Commercial,SAN JOAQUIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-01,Commercial,SAN JOAQUIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-01,Commercial,SANTA BARBARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Commercial,SANTA CLARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Commercial,SANTA CLARA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-01,Commercial,SANTA CLARA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-01,Commercial,SANTA CLARA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-01,Commercial,SANTA CLARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-01,Commercial,SANTA CLARA,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-01,Commercial,SOLANO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Commercial,SONOMA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-01,Commercial,SONOMA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-01,Commercial,TUOLUMNE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Commercial,YUBA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Industrial,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Industrial,CALAVERAS,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Industrial,FRESNO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-01,Industrial,HUMBOLDT,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Industrial,KERN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Industrial,KERN,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-01,Industrial,MADERA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-01,Industrial,MARIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-01,Industrial,SAN FRANCISCO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Industrial,SAN JOAQUIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Industrial,SANTA CLARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Industrial,SANTA CLARA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-01,Industrial,SOLANO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Mining,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Mining,SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Residential,ALAMEDA,Inactive Account,High,In Review,4,4,0,4,0,4,0
+2024-01,Residential,ALAMEDA,Inactive Account,High,Open,10,10,10,0,0,10,0
+2024-01,Residential,ALAMEDA,Inactive Account,High,Resolved,14,14,0,0,14,14,0
+2024-01,Residential,ALAMEDA,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-01,Residential,ALAMEDA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-01,Residential,ALAMEDA,Missing Meter Read,Medium,Open,3,3,3,0,0,0,3
+2024-01,Residential,ALAMEDA,Missing Meter Read,Medium,Resolved,5,5,0,0,5,0,5
+2024-01,Residential,AMADOR,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Residential,BUTTE,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-01,Residential,BUTTE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Residential,BUTTE,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,CALAVERAS,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,COLUSA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,CONTRA COSTA,Inactive Account,High,In Review,4,4,0,4,0,4,0
+2024-01,Residential,CONTRA COSTA,Inactive Account,High,Open,7,7,7,0,0,7,0
+2024-01,Residential,CONTRA COSTA,Inactive Account,High,Resolved,17,17,0,0,17,17,0
+2024-01,Residential,CONTRA COSTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-01,Residential,CONTRA COSTA,Missing Meter Read,Medium,Resolved,4,4,0,0,4,0,4
+2024-01,Residential,EL DORADO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-01,Residential,EL DORADO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-01,Residential,FRESNO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Residential,FRESNO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,FRESNO,Inactive Account,High,Resolved,10,10,0,0,10,10,0
+2024-01,Residential,FRESNO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,GLENN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Residential,GLENN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-01,Residential,KERN,Inactive Account,High,In Review,4,4,0,4,0,4,0
+2024-01,Residential,KERN,Inactive Account,High,Open,12,12,12,0,0,12,0
+2024-01,Residential,KERN,Inactive Account,High,Resolved,19,19,0,0,19,19,0
+2024-01,Residential,KERN,Invalid Meter Read,High,In Review,2,2,0,2,0,2,0
+2024-01,Residential,KERN,Invalid Meter Read,High,Open,2,2,2,0,0,2,0
+2024-01,Residential,KERN,Invalid Meter Read,High,Resolved,4,4,0,0,4,4,0
+2024-01,Residential,KERN,Missing Meter Read,Medium,Open,4,4,4,0,0,0,4
+2024-01,Residential,KERN,Missing Meter Read,Medium,Resolved,7,7,0,0,7,0,7
+2024-01,Residential,KINGS,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,KINGS,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-01,Residential,KINGS,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,KINGS,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-01,Residential,KINGS,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-01,Residential,LAKE,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-01,Residential,LAKE,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,MADERA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,MADERA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-01,Residential,MARIN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Residential,MARIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Residential,MARIN,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-01,Residential,MENDOCINO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Residential,MENDOCINO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,MENDOCINO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Residential,MERCED,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Residential,MERCED,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-01,Residential,MERCED,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-01,Residential,MERCED,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-01,Residential,MONTEREY,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-01,Residential,MONTEREY,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-01,Residential,MONTEREY,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-01,Residential,MONTEREY,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-01,Residential,MONTEREY,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-01,Residential,NAPA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-01,Residential,NAPA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-01,Residential,NEVADA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-01,Residential,NEVADA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-01,Residential,PLACER,Inactive Account,High,Open,7,7,7,0,0,7,0
+2024-01,Residential,PLACER,Inactive Account,High,Resolved,8,8,0,0,8,8,0
+2024-01,Residential,PLACER,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,PLACER,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-01,Residential,PLACER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-01,Residential,SAN FRANCISCO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-01,Residential,SAN FRANCISCO,Inactive Account,High,Resolved,7,7,0,0,7,7,0
+2024-01,Residential,SAN FRANCISCO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,SAN FRANCISCO,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-01,Residential,SAN FRANCISCO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-01,Residential,SAN JOAQUIN,Inactive Account,High,In Review,4,4,0,4,0,4,0
+2024-01,Residential,SAN JOAQUIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,SAN JOAQUIN,Inactive Account,High,Resolved,8,8,0,0,8,8,0
+2024-01,Residential,SAN JOAQUIN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-01,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-01,Residential,SAN LUIS OBISPO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,SAN LUIS OBISPO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-01,Residential,SAN LUIS OBISPO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-01,Residential,SAN LUIS OBISPO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-01,Residential,SAN MATEO,Inactive Account,High,Open,7,7,7,0,0,7,0
+2024-01,Residential,SAN MATEO,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-01,Residential,SAN MATEO,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-01,Residential,SAN MATEO,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-01,Residential,SANTA BARBARA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-01,Residential,SANTA BARBARA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-01,Residential,SANTA BARBARA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-01,Residential,SANTA CLARA,Inactive Account,High,In Review,4,4,0,4,0,4,0
+2024-01,Residential,SANTA CLARA,Inactive Account,High,Open,14,14,14,0,0,14,0
+2024-01,Residential,SANTA CLARA,Inactive Account,High,Resolved,18,18,0,0,18,18,0
+2024-01,Residential,SANTA CLARA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-01,Residential,SANTA CLARA,Invalid Meter Read,High,Resolved,5,5,0,0,5,5,0
+2024-01,Residential,SANTA CLARA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-01,Residential,SANTA CLARA,Missing Meter Read,Medium,Open,3,3,3,0,0,0,3
+2024-01,Residential,SANTA CLARA,Missing Meter Read,Medium,Resolved,8,8,0,0,8,0,8
+2024-01,Residential,SANTA CRUZ,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Residential,SANTA CRUZ,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,SANTA CRUZ,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-01,Residential,SHASTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Residential,SHASTA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-01,Residential,SHASTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-01,Residential,SOLANO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-01,Residential,SOLANO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,Residential,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Residential,SOLANO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-01,Residential,SOLANO,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-01,Residential,SOLANO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-01,Residential,SONOMA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-01,Residential,SONOMA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-01,Residential,SUTTER,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-01,Residential,TUOLUMNE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Residential,YOLO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-01,Residential,YOLO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-01,Residential,YUBA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Streetlighting,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-01,Streetlighting,SAN JOAQUIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,"Transportation, Communications, & Utilities",SAN MATEO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-01,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-02,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-02,Agriculture And Water Pumping,ALAMEDA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-02,Agriculture And Water Pumping,CONTRA COSTA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Agriculture And Water Pumping,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Agriculture And Water Pumping,KERN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Agriculture And Water Pumping,KINGS,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Agriculture And Water Pumping,SAN JOAQUIN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-02,Agriculture And Water Pumping,SANTA CLARA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-02,Commercial,ALAMEDA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-02,Commercial,ALAMEDA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-02,Commercial,ALAMEDA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-02,Commercial,CONTRA COSTA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-02,Commercial,FRESNO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-02,Commercial,GLENN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Commercial,GLENN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-02,Commercial,HUMBOLDT,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-02,Commercial,KERN,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-02,Commercial,KERN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-02,Commercial,KERN,Missing Meter Read,Medium,Resolved,5,5,0,0,5,0,5
+2024-02,Commercial,MADERA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-02,Commercial,MERCED,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Commercial,MERCED,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-02,Commercial,MERCED,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-02,Commercial,NAPA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-02,Commercial,NEVADA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Commercial,PLACER,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-02,Commercial,SAN JOAQUIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-02,Commercial,SANTA BARBARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Commercial,SANTA CLARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-02,Commercial,SANTA CLARA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-02,Commercial,SANTA CLARA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-02,Commercial,SANTA CLARA,Invalid Meter Read,High,In Review,2,2,0,2,0,2,0
+2024-02,Commercial,SANTA CLARA,Invalid Meter Read,High,Open,2,2,2,0,0,2,0
+2024-02,Commercial,SANTA CLARA,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-02,Commercial,SANTA CLARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-02,Commercial,SOLANO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Commercial,TUOLUMNE,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-02,Commercial,YOLO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-02,Commercial,YUBA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Industrial,ALAMEDA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-02,Industrial,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Industrial,FRESNO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-02,Industrial,HUMBOLDT,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Industrial,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Industrial,KERN,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-02,Industrial,SAN FRANCISCO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-02,Industrial,SAN JOAQUIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Industrial,SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Industrial,SANTA CLARA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-02,Industrial,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Industrial,YOLO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-02,Mining,FRESNO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-02,Mining,KERN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-02,Mining,SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Residential,ALAMEDA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-02,Residential,ALAMEDA,Inactive Account,High,Open,10,10,10,0,0,10,0
+2024-02,Residential,ALAMEDA,Inactive Account,High,Resolved,17,17,0,0,17,17,0
+2024-02,Residential,ALAMEDA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,ALAMEDA,Invalid Meter Read,High,Resolved,3,3,0,0,3,3,0
+2024-02,Residential,ALAMEDA,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-02,Residential,AMADOR,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,BUTTE,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-02,Residential,BUTTE,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-02,Residential,BUTTE,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-02,Residential,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Residential,COLUSA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Residential,CONTRA COSTA,Inactive Account,High,In Review,8,8,0,8,0,8,0
+2024-02,Residential,CONTRA COSTA,Inactive Account,High,Open,6,6,6,0,0,6,0
+2024-02,Residential,CONTRA COSTA,Inactive Account,High,Resolved,14,14,0,0,14,14,0
+2024-02,Residential,CONTRA COSTA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-02,Residential,CONTRA COSTA,Missing Meter Read,Medium,Open,3,3,3,0,0,0,3
+2024-02,Residential,CONTRA COSTA,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-02,Residential,EL DORADO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-02,Residential,EL DORADO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Residential,FRESNO,Inactive Account,High,In Review,4,4,0,4,0,4,0
+2024-02,Residential,FRESNO,Inactive Account,High,Open,5,5,5,0,0,5,0
+2024-02,Residential,FRESNO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-02,Residential,FRESNO,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-02,Residential,FRESNO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-02,Residential,FRESNO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-02,Residential,GLENN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-02,Residential,HUMBOLDT,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-02,Residential,HUMBOLDT,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-02,Residential,KERN,Inactive Account,High,In Review,10,10,0,10,0,10,0
+2024-02,Residential,KERN,Inactive Account,High,Open,7,7,7,0,0,7,0
+2024-02,Residential,KERN,Inactive Account,High,Resolved,18,18,0,0,18,18,0
+2024-02,Residential,KERN,Invalid Meter Read,High,In Review,2,2,0,2,0,2,0
+2024-02,Residential,KERN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,KERN,Invalid Meter Read,High,Resolved,5,5,0,0,5,5,0
+2024-02,Residential,KERN,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-02,Residential,KERN,Missing Meter Read,Medium,Open,5,5,5,0,0,0,5
+2024-02,Residential,KERN,Missing Meter Read,Medium,Resolved,8,8,0,0,8,0,8
+2024-02,Residential,KINGS,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,KINGS,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-02,Residential,KINGS,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-02,Residential,LAKE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,LAKE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Residential,LAKE,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-02,Residential,MADERA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-02,Residential,MADERA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-02,Residential,MADERA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-02,Residential,MARIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,MARIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Residential,MARIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-02,Residential,MARIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-02,Residential,MENDOCINO,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-02,Residential,MERCED,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-02,Residential,MERCED,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-02,Residential,MERCED,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-02,Residential,MERCED,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,MERCED,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-02,Residential,MERCED,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-02,Residential,MONTEREY,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-02,Residential,MONTEREY,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-02,Residential,MONTEREY,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-02,Residential,MONTEREY,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-02,Residential,MONTEREY,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-02,Residential,NAPA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-02,Residential,NAPA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-02,Residential,NAPA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-02,Residential,NAPA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-02,Residential,NEVADA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-02,Residential,PLACER,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-02,Residential,PLACER,Inactive Account,High,Open,4,4,4,0,0,4,0
+2024-02,Residential,PLACER,Inactive Account,High,Resolved,10,10,0,0,10,10,0
+2024-02,Residential,PLACER,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-02,Residential,PLACER,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-02,Residential,SAN FRANCISCO,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-02,Residential,SAN FRANCISCO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,SAN FRANCISCO,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-02,Residential,SAN FRANCISCO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-02,Residential,SAN FRANCISCO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-02,Residential,SAN JOAQUIN,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-02,Residential,SAN JOAQUIN,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-02,Residential,SAN JOAQUIN,Inactive Account,High,Resolved,9,9,0,0,9,9,0
+2024-02,Residential,SAN JOAQUIN,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-02,Residential,SAN JOAQUIN,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-02,Residential,SAN LUIS OBISPO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,SAN LUIS OBISPO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-02,Residential,SAN LUIS OBISPO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-02,Residential,SAN MATEO,Inactive Account,High,In Review,4,4,0,4,0,4,0
+2024-02,Residential,SAN MATEO,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-02,Residential,SAN MATEO,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-02,Residential,SAN MATEO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,SAN MATEO,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-02,Residential,SAN MATEO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-02,Residential,SANTA BARBARA,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-02,Residential,SANTA BARBARA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-02,Residential,SANTA BARBARA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-02,Residential,SANTA CLARA,Inactive Account,High,In Review,5,5,0,5,0,5,0
+2024-02,Residential,SANTA CLARA,Inactive Account,High,Open,14,14,14,0,0,14,0
+2024-02,Residential,SANTA CLARA,Inactive Account,High,Resolved,17,17,0,0,17,17,0
+2024-02,Residential,SANTA CLARA,Invalid Meter Read,High,In Review,3,3,0,3,0,3,0
+2024-02,Residential,SANTA CLARA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,SANTA CLARA,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-02,Residential,SANTA CLARA,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-02,Residential,SANTA CLARA,Missing Meter Read,Medium,Open,3,3,3,0,0,0,3
+2024-02,Residential,SANTA CLARA,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-02,Residential,SANTA CRUZ,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-02,Residential,SANTA CRUZ,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-02,Residential,SHASTA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,SHASTA,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-02,Residential,SOLANO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-02,Residential,SOLANO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-02,Residential,SOLANO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-02,Residential,SOLANO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-02,Residential,SONOMA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-02,Residential,SONOMA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-02,Residential,SONOMA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,SONOMA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-02,Residential,SONOMA,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-02,Residential,SONOMA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-02,Residential,SUTTER,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,SUTTER,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-02,Residential,TUOLUMNE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Residential,TUOLUMNE,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-02,Residential,YOLO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-02,Residential,YOLO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,YOLO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-02,Residential,YOLO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-02,Residential,YOLO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-02,Residential,YUBA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,Residential,YUBA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-02,Streetlighting,CONTRA COSTA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-02,Streetlighting,FRESNO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,Streetlighting,SAN JOAQUIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,"Transportation, Communications, & Utilities",KERN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-02,"Transportation, Communications, & Utilities",SAN MATEO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-02,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-02,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Agriculture And Water Pumping,CONTRA COSTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Agriculture And Water Pumping,FRESNO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Agriculture And Water Pumping,KERN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,Agriculture And Water Pumping,KERN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Agriculture And Water Pumping,KINGS,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Agriculture And Water Pumping,SAN LUIS OBISPO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-03,Agriculture And Water Pumping,SANTA CLARA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Commercial,ALAMEDA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-03,Commercial,ALAMEDA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-03,Commercial,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Commercial,CONTRA COSTA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-03,Commercial,CONTRA COSTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-03,Commercial,FRESNO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-03,Commercial,GLENN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Commercial,HUMBOLDT,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Commercial,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Commercial,KERN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Commercial,KERN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-03,Commercial,KERN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-03,Commercial,KERN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Commercial,MADERA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Commercial,MADERA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Commercial,MERCED,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Commercial,NAPA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-03,Commercial,NEVADA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,Commercial,PLACER,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-03,Commercial,SAN FRANCISCO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Commercial,SAN JOAQUIN,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-03,Commercial,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Commercial,SANTA BARBARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Commercial,SANTA BARBARA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-03,Commercial,SANTA CLARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,Commercial,SANTA CLARA,Inactive Account,High,Open,4,4,4,0,0,4,0
+2024-03,Commercial,SANTA CLARA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-03,Commercial,SANTA CLARA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Commercial,SOLANO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,Commercial,SUTTER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Commercial,TUOLUMNE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Commercial,YUBA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,Industrial,ALAMEDA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,Industrial,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Industrial,FRESNO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-03,Industrial,HUMBOLDT,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Industrial,KERN,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-03,Industrial,KERN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Industrial,SAN FRANCISCO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,Industrial,SAN JOAQUIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Industrial,SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Industrial,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Mining,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Mining,SAN JOAQUIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-03,Mining,SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Mining,SONOMA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Residential,ALAMEDA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,Residential,ALAMEDA,Inactive Account,High,Open,11,11,11,0,0,11,0
+2024-03,Residential,ALAMEDA,Inactive Account,High,Resolved,16,16,0,0,16,16,0
+2024-03,Residential,ALAMEDA,Invalid Meter Read,High,In Review,2,2,0,2,0,2,0
+2024-03,Residential,ALAMEDA,Invalid Meter Read,High,Open,2,2,2,0,0,2,0
+2024-03,Residential,ALAMEDA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,ALAMEDA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-03,Residential,ALAMEDA,Missing Meter Read,Medium,Open,4,4,4,0,0,0,4
+2024-03,Residential,ALAMEDA,Missing Meter Read,Medium,Resolved,6,6,0,0,6,0,6
+2024-03,Residential,AMADOR,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,BUTTE,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,Residential,BUTTE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,BUTTE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,BUTTE,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-03,Residential,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,COLUSA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,CONTRA COSTA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-03,Residential,CONTRA COSTA,Inactive Account,High,Open,9,9,9,0,0,9,0
+2024-03,Residential,CONTRA COSTA,Inactive Account,High,Resolved,17,17,0,0,17,17,0
+2024-03,Residential,CONTRA COSTA,Invalid Meter Read,High,Open,3,3,3,0,0,3,0
+2024-03,Residential,CONTRA COSTA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,CONTRA COSTA,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-03,Residential,CONTRA COSTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-03,Residential,CONTRA COSTA,Missing Meter Read,Medium,Resolved,5,5,0,0,5,0,5
+2024-03,Residential,EL DORADO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,Residential,EL DORADO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,EL DORADO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,EL DORADO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Residential,FRESNO,Inactive Account,High,Open,4,4,4,0,0,4,0
+2024-03,Residential,FRESNO,Inactive Account,High,Resolved,8,8,0,0,8,8,0
+2024-03,Residential,FRESNO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,FRESNO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-03,Residential,FRESNO,Missing Meter Read,Medium,Open,3,3,3,0,0,0,3
+2024-03,Residential,FRESNO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-03,Residential,GLENN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,KERN,Inactive Account,High,In Review,10,10,0,10,0,10,0
+2024-03,Residential,KERN,Inactive Account,High,Open,11,11,11,0,0,11,0
+2024-03,Residential,KERN,Inactive Account,High,Resolved,14,14,0,0,14,14,0
+2024-03,Residential,KERN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,KERN,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-03,Residential,KERN,Missing Meter Read,Medium,In Review,3,3,0,3,0,0,3
+2024-03,Residential,KERN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-03,Residential,KERN,Missing Meter Read,Medium,Resolved,4,4,0,0,4,0,4
+2024-03,Residential,KINGS,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-03,Residential,KINGS,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-03,Residential,KINGS,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,LAKE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,LAKE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,LAKE,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-03,Residential,MADERA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,MADERA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-03,Residential,MARIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,MARIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,MARIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,MENDOCINO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-03,Residential,MENDOCINO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Residential,MERCED,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,MERCED,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-03,Residential,MERCED,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,MONTEREY,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,Residential,MONTEREY,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-03,Residential,MONTEREY,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-03,Residential,NAPA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,Residential,NAPA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-03,Residential,NAPA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,NEVADA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-03,Residential,PLACER,Inactive Account,High,In Review,5,5,0,5,0,5,0
+2024-03,Residential,PLACER,Inactive Account,High,Open,5,5,5,0,0,5,0
+2024-03,Residential,PLACER,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-03,Residential,PLACER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Residential,PLUMAS,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Residential,SAN FRANCISCO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,Residential,SAN FRANCISCO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-03,Residential,SAN FRANCISCO,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-03,Residential,SAN FRANCISCO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,SAN FRANCISCO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-03,Residential,SAN JOAQUIN,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-03,Residential,SAN JOAQUIN,Inactive Account,High,Open,4,4,4,0,0,4,0
+2024-03,Residential,SAN JOAQUIN,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-03,Residential,SAN JOAQUIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-03,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-03,Residential,SAN LUIS OBISPO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,SAN LUIS OBISPO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-03,Residential,SAN LUIS OBISPO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Residential,SAN MATEO,Inactive Account,High,Open,6,6,6,0,0,6,0
+2024-03,Residential,SAN MATEO,Inactive Account,High,Resolved,7,7,0,0,7,7,0
+2024-03,Residential,SAN MATEO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-03,Residential,SAN MATEO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-03,Residential,SAN MATEO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Residential,SANTA BARBARA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-03,Residential,SANTA BARBARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,SANTA BARBARA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-03,Residential,SANTA BARBARA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-03,Residential,SANTA BARBARA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Residential,SANTA CLARA,Inactive Account,High,In Review,5,5,0,5,0,5,0
+2024-03,Residential,SANTA CLARA,Inactive Account,High,Open,12,12,12,0,0,12,0
+2024-03,Residential,SANTA CLARA,Inactive Account,High,Resolved,19,19,0,0,19,19,0
+2024-03,Residential,SANTA CLARA,Invalid Meter Read,High,In Review,3,3,0,3,0,3,0
+2024-03,Residential,SANTA CLARA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,SANTA CLARA,Invalid Meter Read,High,Resolved,5,5,0,0,5,5,0
+2024-03,Residential,SANTA CLARA,Missing Meter Read,Medium,Open,4,4,4,0,0,0,4
+2024-03,Residential,SANTA CLARA,Missing Meter Read,Medium,Resolved,6,6,0,0,6,0,6
+2024-03,Residential,SANTA CRUZ,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,Residential,SANTA CRUZ,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,SANTA CRUZ,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-03,Residential,SANTA CRUZ,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-03,Residential,SHASTA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,SHASTA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Residential,SOLANO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,SOLANO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-03,Residential,SOLANO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,SOLANO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-03,Residential,SOLANO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-03,Residential,SOLANO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Residential,SONOMA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-03,Residential,SONOMA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-03,Residential,SONOMA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,SONOMA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-03,Residential,SONOMA,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-03,Residential,SUTTER,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-03,Residential,SUTTER,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,SUTTER,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-03,Residential,SUTTER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Residential,TUOLUMNE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,TUOLUMNE,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Residential,YOLO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-03,Residential,YOLO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-03,Residential,YUBA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-03,Residential,YUBA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-03,Streetlighting,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-03,Streetlighting,SAN FRANCISCO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-03,Streetlighting,SAN JOAQUIN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,"Transportation, Communications, & Utilities",CONTRA COSTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-03,"Transportation, Communications, & Utilities",SAN MATEO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-03,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-04,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-04,Agriculture And Water Pumping,CONTRA COSTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Agriculture And Water Pumping,CONTRA COSTA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-04,Agriculture And Water Pumping,KERN,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-04,Agriculture And Water Pumping,KERN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-04,Agriculture And Water Pumping,KINGS,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Agriculture And Water Pumping,KINGS,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-04,Agriculture And Water Pumping,PLACER,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-04,Agriculture And Water Pumping,SAN JOAQUIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-04,Agriculture And Water Pumping,SANTA CLARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-04,Agriculture And Water Pumping,SOLANO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-04,Commercial,ALAMEDA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,Commercial,ALAMEDA,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-04,Commercial,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Commercial,ALAMEDA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-04,Commercial,ALAMEDA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-04,Commercial,ALAMEDA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-04,Commercial,CONTRA COSTA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,Commercial,CONTRA COSTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Commercial,CONTRA COSTA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-04,Commercial,CONTRA COSTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-04,Commercial,CONTRA COSTA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-04,Commercial,FRESNO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-04,Commercial,GLENN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Commercial,HUMBOLDT,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Commercial,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Commercial,KERN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Commercial,KERN,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-04,Commercial,MADERA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-04,Commercial,MENDOCINO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-04,Commercial,MENDOCINO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-04,Commercial,MERCED,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Commercial,MERCED,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-04,Commercial,NEVADA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Commercial,PLACER,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,Commercial,PLACER,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Commercial,PLACER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-04,Commercial,SAN JOAQUIN,Missing Meter Read,Medium,In Review,3,3,0,3,0,0,3
+2024-04,Commercial,SAN MATEO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-04,Commercial,SAN MATEO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-04,Commercial,SANTA BARBARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Commercial,SANTA BARBARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-04,Commercial,SANTA BARBARA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-04,Commercial,SANTA CLARA,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-04,Commercial,SANTA CLARA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-04,Commercial,SANTA CLARA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-04,Commercial,SANTA CLARA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-04,Commercial,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Commercial,TUOLUMNE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Commercial,YUBA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Industrial,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Industrial,CALAVERAS,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,Industrial,FRESNO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Industrial,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Industrial,HUMBOLDT,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,Industrial,KERN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,Industrial,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Industrial,KERN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Industrial,SAN FRANCISCO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Industrial,SAN JOAQUIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Industrial,SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Industrial,SHASTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-04,Industrial,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Mining,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Mining,SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Mining,YOLO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,ALAMEDA,Inactive Account,High,In Review,5,5,0,5,0,5,0
+2024-04,Residential,ALAMEDA,Inactive Account,High,Open,9,9,9,0,0,9,0
+2024-04,Residential,ALAMEDA,Inactive Account,High,Resolved,14,14,0,0,14,14,0
+2024-04,Residential,ALAMEDA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,ALAMEDA,Missing Meter Read,Medium,In Review,3,3,0,3,0,0,3
+2024-04,Residential,ALAMEDA,Missing Meter Read,Medium,Open,4,4,4,0,0,0,4
+2024-04,Residential,ALAMEDA,Missing Meter Read,Medium,Resolved,4,4,0,0,4,0,4
+2024-04,Residential,AMADOR,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,BUTTE,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-04,Residential,BUTTE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,CALAVERAS,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-04,Residential,COLUSA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,CONTRA COSTA,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-04,Residential,CONTRA COSTA,Inactive Account,High,Open,9,9,9,0,0,9,0
+2024-04,Residential,CONTRA COSTA,Inactive Account,High,Resolved,16,16,0,0,16,16,0
+2024-04,Residential,CONTRA COSTA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-04,Residential,CONTRA COSTA,Invalid Meter Read,High,Resolved,3,3,0,0,3,3,0
+2024-04,Residential,CONTRA COSTA,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-04,Residential,CONTRA COSTA,Missing Meter Read,Medium,Resolved,4,4,0,0,4,0,4
+2024-04,Residential,EL DORADO,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-04,Residential,EL DORADO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,EL DORADO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,EL DORADO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-04,Residential,EL DORADO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-04,Residential,FRESNO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,Residential,FRESNO,Inactive Account,High,Open,5,5,5,0,0,5,0
+2024-04,Residential,FRESNO,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-04,Residential,FRESNO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-04,Residential,FRESNO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-04,Residential,FRESNO,Missing Meter Read,Medium,Resolved,9,9,0,0,9,0,9
+2024-04,Residential,GLENN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,Residential,KERN,Inactive Account,High,In Review,6,6,0,6,0,6,0
+2024-04,Residential,KERN,Inactive Account,High,Open,15,15,15,0,0,15,0
+2024-04,Residential,KERN,Inactive Account,High,Resolved,14,14,0,0,14,14,0
+2024-04,Residential,KERN,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-04,Residential,KERN,Missing Meter Read,Medium,Open,5,5,5,0,0,0,5
+2024-04,Residential,KERN,Missing Meter Read,Medium,Resolved,6,6,0,0,6,0,6
+2024-04,Residential,KINGS,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-04,Residential,KINGS,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-04,Residential,KINGS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,KINGS,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,KINGS,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-04,Residential,LAKE,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,Residential,LAKE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,MADERA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,Residential,MADERA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-04,Residential,MADERA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,MADERA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-04,Residential,MARIN,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-04,Residential,MARIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,MENDOCINO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Residential,MENDOCINO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-04,Residential,MERCED,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-04,Residential,MERCED,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-04,Residential,MERCED,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-04,Residential,MONTEREY,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,Residential,MONTEREY,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-04,Residential,MONTEREY,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-04,Residential,MONTEREY,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-04,Residential,MONTEREY,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-04,Residential,NAPA,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-04,Residential,NAPA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,NAPA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-04,Residential,NEVADA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Residential,NEVADA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,NEVADA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-04,Residential,PLACER,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-04,Residential,PLACER,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-04,Residential,PLACER,Inactive Account,High,Resolved,10,10,0,0,10,10,0
+2024-04,Residential,PLACER,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-04,Residential,SAN FRANCISCO,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-04,Residential,SAN FRANCISCO,Inactive Account,High,Open,5,5,5,0,0,5,0
+2024-04,Residential,SAN FRANCISCO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,SAN FRANCISCO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-04,Residential,SAN FRANCISCO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,SAN FRANCISCO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-04,Residential,SAN FRANCISCO,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-04,Residential,SAN JOAQUIN,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-04,Residential,SAN JOAQUIN,Inactive Account,High,Open,4,4,4,0,0,4,0
+2024-04,Residential,SAN JOAQUIN,Inactive Account,High,Resolved,7,7,0,0,7,7,0
+2024-04,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-04,Residential,SAN LUIS OBISPO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Residential,SAN LUIS OBISPO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-04,Residential,SAN MATEO,Inactive Account,High,Open,4,4,4,0,0,4,0
+2024-04,Residential,SAN MATEO,Inactive Account,High,Resolved,9,9,0,0,9,9,0
+2024-04,Residential,SAN MATEO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-04,Residential,SAN MATEO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-04,Residential,SAN MATEO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-04,Residential,SAN MATEO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-04,Residential,SANTA BARBARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,Residential,SANTA BARBARA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-04,Residential,SANTA BARBARA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,SANTA BARBARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-04,Residential,SANTA CLARA,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-04,Residential,SANTA CLARA,Inactive Account,High,Open,12,12,12,0,0,12,0
+2024-04,Residential,SANTA CLARA,Inactive Account,High,Resolved,21,21,0,0,21,21,0
+2024-04,Residential,SANTA CLARA,Invalid Meter Read,High,In Review,3,3,0,3,0,3,0
+2024-04,Residential,SANTA CLARA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-04,Residential,SANTA CLARA,Invalid Meter Read,High,Resolved,3,3,0,0,3,3,0
+2024-04,Residential,SANTA CLARA,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-04,Residential,SANTA CLARA,Missing Meter Read,Medium,Resolved,10,10,0,0,10,0,10
+2024-04,Residential,SANTA CRUZ,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,Residential,SANTA CRUZ,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,SHASTA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,Residential,SOLANO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-04,Residential,SOLANO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,SONOMA,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-04,Residential,SONOMA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-04,Residential,SUTTER,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,Residential,SUTTER,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Residential,SUTTER,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Residential,TUOLUMNE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Residential,YOLO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Residential,YOLO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-04,Residential,YOLO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-04,Residential,YOLO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-04,Residential,YUBA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,Streetlighting,FRESNO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-04,Streetlighting,SAN JOAQUIN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-04,"Transportation, Communications, & Utilities",CONTRA COSTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-04,"Transportation, Communications, & Utilities",SAN MATEO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-04,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-05,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Agriculture And Water Pumping,CONTRA COSTA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-05,Agriculture And Water Pumping,CONTRA COSTA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-05,Agriculture And Water Pumping,FRESNO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-05,Agriculture And Water Pumping,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Agriculture And Water Pumping,KERN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Agriculture And Water Pumping,KERN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-05,Agriculture And Water Pumping,KINGS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Commercial,ALAMEDA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-05,Commercial,ALAMEDA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-05,Commercial,ALAMEDA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-05,Commercial,ALAMEDA,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-05,Commercial,BUTTE,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-05,Commercial,CONTRA COSTA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-05,Commercial,CONTRA COSTA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Commercial,CONTRA COSTA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-05,Commercial,EL DORADO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-05,Commercial,FRESNO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-05,Commercial,GLENN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Commercial,HUMBOLDT,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Commercial,KERN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-05,Commercial,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Commercial,KERN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-05,Commercial,KERN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-05,Commercial,MADERA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-05,Commercial,MERCED,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Commercial,MONTEREY,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-05,Commercial,NEVADA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Commercial,PLACER,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-05,Commercial,PLACER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-05,Commercial,SAN FRANCISCO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-05,Commercial,SAN JOAQUIN,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-05,Commercial,SAN LUIS OBISPO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-05,Commercial,SAN MATEO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-05,Commercial,SANTA BARBARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Commercial,SANTA CLARA,Inactive Account,High,In Review,4,4,0,4,0,4,0
+2024-05,Commercial,SANTA CLARA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-05,Commercial,SANTA CLARA,Invalid Meter Read,High,Resolved,4,4,0,0,4,4,0
+2024-05,Commercial,SANTA CLARA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-05,Commercial,SOLANO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-05,Commercial,SONOMA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-05,Commercial,SUTTER,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-05,Commercial,TUOLUMNE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Commercial,YUBA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Industrial,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Industrial,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Industrial,FRESNO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-05,Industrial,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Industrial,HUMBOLDT,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Industrial,KERN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-05,Industrial,KERN,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-05,Industrial,SAN FRANCISCO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Industrial,SAN JOAQUIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Industrial,SAN MATEO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-05,Industrial,SANTA CLARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-05,Industrial,SOLANO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Mining,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Mining,KERN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-05,Mining,SANTA CLARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,ALAMEDA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-05,Residential,ALAMEDA,Inactive Account,High,Open,8,8,8,0,0,8,0
+2024-05,Residential,ALAMEDA,Inactive Account,High,Resolved,18,18,0,0,18,18,0
+2024-05,Residential,ALAMEDA,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-05,Residential,ALAMEDA,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-05,Residential,ALAMEDA,Missing Meter Read,Medium,Open,3,3,3,0,0,0,3
+2024-05,Residential,ALAMEDA,Missing Meter Read,Medium,Resolved,5,5,0,0,5,0,5
+2024-05,Residential,AMADOR,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Residential,AMADOR,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-05,Residential,BUTTE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,BUTTE,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-05,Residential,BUTTE,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-05,Residential,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Residential,COLUSA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Residential,CONTRA COSTA,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-05,Residential,CONTRA COSTA,Inactive Account,High,Open,7,7,7,0,0,7,0
+2024-05,Residential,CONTRA COSTA,Inactive Account,High,Resolved,18,18,0,0,18,18,0
+2024-05,Residential,CONTRA COSTA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-05,Residential,CONTRA COSTA,Invalid Meter Read,High,Open,2,2,2,0,0,2,0
+2024-05,Residential,CONTRA COSTA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-05,Residential,CONTRA COSTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-05,Residential,EL DORADO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,EL DORADO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-05,Residential,EL DORADO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-05,Residential,EL DORADO,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-05,Residential,EL DORADO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-05,Residential,FRESNO,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-05,Residential,FRESNO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,FRESNO,Inactive Account,High,Resolved,9,9,0,0,9,9,0
+2024-05,Residential,FRESNO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,FRESNO,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-05,Residential,FRESNO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-05,Residential,FRESNO,Missing Meter Read,Medium,Resolved,4,4,0,0,4,0,4
+2024-05,Residential,GLENN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Residential,KERN,Inactive Account,High,In Review,8,8,0,8,0,8,0
+2024-05,Residential,KERN,Inactive Account,High,Open,8,8,8,0,0,8,0
+2024-05,Residential,KERN,Inactive Account,High,Resolved,19,19,0,0,19,19,0
+2024-05,Residential,KERN,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-05,Residential,KERN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,KERN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-05,Residential,KERN,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-05,Residential,KERN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-05,Residential,KERN,Missing Meter Read,Medium,Resolved,4,4,0,0,4,0,4
+2024-05,Residential,KINGS,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-05,Residential,KINGS,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-05,Residential,KINGS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Residential,KINGS,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-05,Residential,KINGS,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-05,Residential,KINGS,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-05,Residential,LAKE,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-05,Residential,LAKE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,MADERA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-05,Residential,MADERA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-05,Residential,MADERA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-05,Residential,MARIN,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-05,Residential,MARIN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,MARIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-05,Residential,MENDOCINO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-05,Residential,MERCED,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-05,Residential,MERCED,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-05,Residential,MERCED,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-05,Residential,MERCED,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-05,Residential,MERCED,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-05,Residential,MONTEREY,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-05,Residential,MONTEREY,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-05,Residential,MONTEREY,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-05,Residential,MONTEREY,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-05,Residential,MONTEREY,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-05,Residential,MONTEREY,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-05,Residential,NAPA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-05,Residential,NAPA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,NEVADA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-05,Residential,NEVADA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,PLACER,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-05,Residential,PLACER,Inactive Account,High,Open,9,9,9,0,0,9,0
+2024-05,Residential,PLACER,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-05,Residential,PLACER,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-05,Residential,PLACER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-05,Residential,SAN FRANCISCO,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-05,Residential,SAN FRANCISCO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,SAN FRANCISCO,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-05,Residential,SAN FRANCISCO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,SAN FRANCISCO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-05,Residential,SAN FRANCISCO,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-05,Residential,SAN JOAQUIN,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-05,Residential,SAN JOAQUIN,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-05,Residential,SAN JOAQUIN,Inactive Account,High,Resolved,8,8,0,0,8,8,0
+2024-05,Residential,SAN JOAQUIN,Invalid Meter Read,High,In Review,2,2,0,2,0,2,0
+2024-05,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-05,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-05,Residential,SAN LUIS OBISPO,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-05,Residential,SAN LUIS OBISPO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Residential,SAN LUIS OBISPO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-05,Residential,SAN MATEO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-05,Residential,SAN MATEO,Inactive Account,High,Open,5,5,5,0,0,5,0
+2024-05,Residential,SAN MATEO,Inactive Account,High,Resolved,7,7,0,0,7,7,0
+2024-05,Residential,SAN MATEO,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-05,Residential,SAN MATEO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-05,Residential,SAN MATEO,Missing Meter Read,Medium,Resolved,4,4,0,0,4,0,4
+2024-05,Residential,SANTA BARBARA,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-05,Residential,SANTA CLARA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-05,Residential,SANTA CLARA,Inactive Account,High,Open,16,16,16,0,0,16,0
+2024-05,Residential,SANTA CLARA,Inactive Account,High,Resolved,18,18,0,0,18,18,0
+2024-05,Residential,SANTA CLARA,Invalid Meter Read,High,Open,5,5,5,0,0,5,0
+2024-05,Residential,SANTA CLARA,Invalid Meter Read,High,Resolved,4,4,0,0,4,4,0
+2024-05,Residential,SANTA CLARA,Missing Meter Read,Medium,Open,4,4,4,0,0,0,4
+2024-05,Residential,SANTA CLARA,Missing Meter Read,Medium,Resolved,6,6,0,0,6,0,6
+2024-05,Residential,SANTA CRUZ,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-05,Residential,SANTA CRUZ,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Residential,SANTA CRUZ,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-05,Residential,SHASTA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,SHASTA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,SOLANO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-05,Residential,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Residential,SOLANO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-05,Residential,SOLANO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-05,Residential,SONOMA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-05,Residential,SONOMA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,SONOMA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-05,Residential,SONOMA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-05,Residential,SUTTER,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,SUTTER,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-05,Residential,TUOLUMNE,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-05,Residential,TUOLUMNE,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-05,Residential,YOLO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,Residential,YOLO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-05,Residential,YOLO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-05,Residential,YOLO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-05,Residential,YOLO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-05,Residential,YUBA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Streetlighting,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,Streetlighting,FRESNO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-05,Streetlighting,SAN JOAQUIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,"Transportation, Communications, & Utilities",SAN MATEO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-05,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-05,"Transportation, Communications, & Utilities",SANTA CLARA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-05,"Transportation, Communications, & Utilities",SANTA CLARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Agriculture And Water Pumping,CONTRA COSTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Agriculture And Water Pumping,FRESNO,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-06,Agriculture And Water Pumping,KERN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-06,Agriculture And Water Pumping,KERN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Agriculture And Water Pumping,KINGS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Agriculture And Water Pumping,PLACER,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-06,Commercial,ALAMEDA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-06,Commercial,ALAMEDA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-06,Commercial,ALAMEDA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-06,Commercial,CONTRA COSTA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-06,Commercial,CONTRA COSTA,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-06,Commercial,CONTRA COSTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Commercial,CONTRA COSTA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-06,Commercial,FRESNO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-06,Commercial,GLENN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Commercial,HUMBOLDT,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Commercial,KERN,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-06,Commercial,KERN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-06,Commercial,KERN,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-06,Commercial,KERN,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-06,Commercial,KINGS,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Commercial,MADERA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-06,Commercial,MADERA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Commercial,MERCED,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-06,Commercial,MERCED,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-06,Commercial,MONTEREY,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-06,Commercial,NEVADA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Commercial,PLACER,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-06,Commercial,PLACER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-06,Commercial,PLUMAS,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Commercial,SAN FRANCISCO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-06,Commercial,SAN FRANCISCO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Commercial,SAN LUIS OBISPO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-06,Commercial,SAN MATEO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-06,Commercial,SANTA BARBARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Commercial,SANTA BARBARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Commercial,SANTA CLARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Commercial,SANTA CLARA,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-06,Commercial,SANTA CLARA,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-06,Commercial,SHASTA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-06,Commercial,SOLANO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Commercial,SONOMA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Commercial,TUOLUMNE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Commercial,YUBA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Industrial,ALAMEDA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Industrial,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Industrial,FRESNO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-06,Industrial,FRESNO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Industrial,HUMBOLDT,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Industrial,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Industrial,KERN,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-06,Industrial,PLACER,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-06,Industrial,SAN FRANCISCO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Industrial,SAN JOAQUIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Industrial,SAN MATEO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-06,Industrial,SANTA CLARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Industrial,SANTA CLARA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-06,Industrial,SANTA CLARA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-06,Industrial,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Industrial,SONOMA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-06,Mining,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Mining,SANTA CLARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-06,Residential,ALAMEDA,Inactive Account,High,In Review,6,6,0,6,0,6,0
+2024-06,Residential,ALAMEDA,Inactive Account,High,Open,6,6,6,0,0,6,0
+2024-06,Residential,ALAMEDA,Inactive Account,High,Resolved,16,16,0,0,16,16,0
+2024-06,Residential,ALAMEDA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-06,Residential,ALAMEDA,Invalid Meter Read,High,Open,3,3,3,0,0,3,0
+2024-06,Residential,ALAMEDA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-06,Residential,ALAMEDA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-06,Residential,ALAMEDA,Missing Meter Read,Medium,Open,5,5,5,0,0,0,5
+2024-06,Residential,ALAMEDA,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-06,Residential,AMADOR,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Residential,BUTTE,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-06,Residential,BUTTE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Residential,CALAVERAS,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Residential,CALAVERAS,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Residential,COLUSA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Residential,CONTRA COSTA,Inactive Account,High,In Review,7,7,0,7,0,7,0
+2024-06,Residential,CONTRA COSTA,Inactive Account,High,Open,8,8,8,0,0,8,0
+2024-06,Residential,CONTRA COSTA,Inactive Account,High,Resolved,13,13,0,0,13,13,0
+2024-06,Residential,CONTRA COSTA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-06,Residential,CONTRA COSTA,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-06,Residential,CONTRA COSTA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-06,Residential,CONTRA COSTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Residential,CONTRA COSTA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-06,Residential,EL DORADO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-06,Residential,EL DORADO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Residential,FRESNO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-06,Residential,FRESNO,Inactive Account,High,Open,6,6,6,0,0,6,0
+2024-06,Residential,FRESNO,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-06,Residential,FRESNO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-06,Residential,FRESNO,Invalid Meter Read,High,Resolved,3,3,0,0,3,3,0
+2024-06,Residential,FRESNO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Residential,FRESNO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-06,Residential,GLENN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Residential,KERN,Inactive Account,High,In Review,5,5,0,5,0,5,0
+2024-06,Residential,KERN,Inactive Account,High,Open,7,7,7,0,0,7,0
+2024-06,Residential,KERN,Inactive Account,High,Resolved,23,23,0,0,23,23,0
+2024-06,Residential,KERN,Invalid Meter Read,High,In Review,2,2,0,2,0,2,0
+2024-06,Residential,KERN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-06,Residential,KERN,Missing Meter Read,Medium,In Review,4,4,0,4,0,0,4
+2024-06,Residential,KERN,Missing Meter Read,Medium,Open,4,4,4,0,0,0,4
+2024-06,Residential,KERN,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-06,Residential,KINGS,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-06,Residential,KINGS,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-06,Residential,KINGS,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-06,Residential,LAKE,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-06,Residential,MADERA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-06,Residential,MADERA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-06,Residential,MADERA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-06,Residential,MADERA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Residential,MADERA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-06,Residential,MARIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Residential,MARIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Residential,MARIPOSA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-06,Residential,MENDOCINO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-06,Residential,MENDOCINO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-06,Residential,MERCED,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-06,Residential,MERCED,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-06,Residential,MERCED,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-06,Residential,MERCED,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-06,Residential,MERCED,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-06,Residential,MONTEREY,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-06,Residential,MONTEREY,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-06,Residential,MONTEREY,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-06,Residential,MONTEREY,Invalid Meter Read,High,Open,2,2,2,0,0,2,0
+2024-06,Residential,MONTEREY,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-06,Residential,MONTEREY,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Residential,MONTEREY,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-06,Residential,NAPA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-06,Residential,NAPA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-06,Residential,NAPA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-06,Residential,NEVADA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-06,Residential,PLACER,Inactive Account,High,In Review,5,5,0,5,0,5,0
+2024-06,Residential,PLACER,Inactive Account,High,Open,4,4,4,0,0,4,0
+2024-06,Residential,PLACER,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-06,Residential,PLACER,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-06,Residential,PLACER,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-06,Residential,PLACER,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-06,Residential,PLUMAS,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-06,Residential,SAN FRANCISCO,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-06,Residential,SAN FRANCISCO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Residential,SAN FRANCISCO,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-06,Residential,SAN FRANCISCO,Invalid Meter Read,High,Resolved,4,4,0,0,4,4,0
+2024-06,Residential,SAN FRANCISCO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-06,Residential,SAN FRANCISCO,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-06,Residential,SAN FRANCISCO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-06,Residential,SAN JOAQUIN,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-06,Residential,SAN JOAQUIN,Inactive Account,High,Open,4,4,4,0,0,4,0
+2024-06,Residential,SAN JOAQUIN,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-06,Residential,SAN JOAQUIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-06,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-06,Residential,SAN LUIS OBISPO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-06,Residential,SAN LUIS OBISPO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-06,Residential,SAN LUIS OBISPO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Residential,SAN LUIS OBISPO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-06,Residential,SAN MATEO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-06,Residential,SAN MATEO,Inactive Account,High,Open,5,5,5,0,0,5,0
+2024-06,Residential,SAN MATEO,Inactive Account,High,Resolved,7,7,0,0,7,7,0
+2024-06,Residential,SAN MATEO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-06,Residential,SAN MATEO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-06,Residential,SAN MATEO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-06,Residential,SANTA BARBARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-06,Residential,SANTA BARBARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Residential,SANTA BARBARA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-06,Residential,SANTA BARBARA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-06,Residential,SANTA BARBARA,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-06,Residential,SANTA CLARA,Inactive Account,High,In Review,6,6,0,6,0,6,0
+2024-06,Residential,SANTA CLARA,Inactive Account,High,Open,7,7,7,0,0,7,0
+2024-06,Residential,SANTA CLARA,Inactive Account,High,Resolved,23,23,0,0,23,23,0
+2024-06,Residential,SANTA CLARA,Invalid Meter Read,High,Open,3,3,3,0,0,3,0
+2024-06,Residential,SANTA CLARA,Invalid Meter Read,High,Resolved,3,3,0,0,3,3,0
+2024-06,Residential,SANTA CLARA,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-06,Residential,SANTA CLARA,Missing Meter Read,Medium,Open,5,5,5,0,0,0,5
+2024-06,Residential,SANTA CLARA,Missing Meter Read,Medium,Resolved,8,8,0,0,8,0,8
+2024-06,Residential,SANTA CRUZ,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-06,Residential,SANTA CRUZ,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Residential,SHASTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Residential,SOLANO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-06,Residential,SOLANO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Residential,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Residential,SOLANO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-06,Residential,SOLANO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-06,Residential,SOLANO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Residential,SOLANO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-06,Residential,SONOMA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-06,Residential,SONOMA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-06,Residential,SONOMA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-06,Residential,SONOMA,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-06,Residential,SUTTER,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-06,Residential,TUOLUMNE,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-06,Residential,TUOLUMNE,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-06,Residential,YOLO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-06,Residential,YOLO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-06,Residential,YOLO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-06,Residential,YOLO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-06,Residential,YUBA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,Streetlighting,FRESNO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,Streetlighting,SAN JOAQUIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-06,"Transportation, Communications, & Utilities",ALAMEDA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-06,"Transportation, Communications, & Utilities",MONTEREY,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-06,"Transportation, Communications, & Utilities",SAN MATEO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-06,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-06,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Agriculture And Water Pumping,CONTRA COSTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Agriculture And Water Pumping,CONTRA COSTA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Agriculture And Water Pumping,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Agriculture And Water Pumping,KERN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Agriculture And Water Pumping,KERN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-07,Agriculture And Water Pumping,KINGS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Agriculture And Water Pumping,SAN FRANCISCO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-07,Agriculture And Water Pumping,SANTA CLARA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-07,Commercial,ALAMEDA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-07,Commercial,ALAMEDA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-07,Commercial,ALAMEDA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-07,Commercial,ALAMEDA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-07,Commercial,ALAMEDA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-07,Commercial,BUTTE,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Commercial,CONTRA COSTA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-07,Commercial,EL DORADO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-07,Commercial,EL DORADO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Commercial,FRESNO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-07,Commercial,GLENN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Commercial,GLENN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Commercial,HUMBOLDT,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-07,Commercial,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Commercial,KERN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Commercial,KERN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-07,Commercial,KERN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Commercial,MADERA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Commercial,MADERA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Commercial,MERCED,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Commercial,MONTEREY,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Commercial,NEVADA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Commercial,PLACER,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Commercial,PLACER,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Commercial,PLACER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Commercial,SAN JOAQUIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-07,Commercial,SAN LUIS OBISPO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-07,Commercial,SAN MATEO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-07,Commercial,SAN MATEO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Commercial,SANTA BARBARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Commercial,SANTA CLARA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-07,Commercial,SANTA CLARA,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-07,Commercial,SANTA CLARA,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-07,Commercial,SANTA CLARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-07,Commercial,SANTA CLARA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Commercial,SOLANO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Commercial,SOLANO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-07,Commercial,SONOMA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-07,Commercial,TUOLUMNE,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-07,Commercial,YOLO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-07,Commercial,YUBA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Industrial,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Industrial,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Industrial,FRESNO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-07,Industrial,HUMBOLDT,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-07,Industrial,KERN,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-07,Industrial,KERN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Industrial,KERN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Industrial,KINGS,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Industrial,SAN FRANCISCO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Industrial,SAN JOAQUIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Industrial,SAN MATEO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-07,Industrial,SANTA CLARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Industrial,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Industrial,YOLO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-07,Mining,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Mining,SANTA CLARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-07,Residential,ALAMEDA,Inactive Account,High,In Review,4,4,0,4,0,4,0
+2024-07,Residential,ALAMEDA,Inactive Account,High,Open,10,10,10,0,0,10,0
+2024-07,Residential,ALAMEDA,Inactive Account,High,Resolved,14,14,0,0,14,14,0
+2024-07,Residential,ALAMEDA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-07,Residential,ALAMEDA,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-07,Residential,ALAMEDA,Missing Meter Read,Medium,Resolved,6,6,0,0,6,0,6
+2024-07,Residential,AMADOR,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Residential,BUTTE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,BUTTE,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-07,Residential,BUTTE,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-07,Residential,BUTTE,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-07,Residential,BUTTE,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Residential,CALAVERAS,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,CALAVERAS,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-07,Residential,COLUSA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Residential,CONTRA COSTA,Inactive Account,High,In Review,6,6,0,6,0,6,0
+2024-07,Residential,CONTRA COSTA,Inactive Account,High,Open,16,16,16,0,0,16,0
+2024-07,Residential,CONTRA COSTA,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-07,Residential,CONTRA COSTA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-07,Residential,CONTRA COSTA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-07,Residential,CONTRA COSTA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Residential,EL DORADO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,EL DORADO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-07,Residential,FRESNO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-07,Residential,FRESNO,Inactive Account,High,Resolved,10,10,0,0,10,10,0
+2024-07,Residential,FRESNO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-07,Residential,FRESNO,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-07,Residential,FRESNO,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-07,Residential,GLENN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Residential,KERN,Inactive Account,High,In Review,8,8,0,8,0,8,0
+2024-07,Residential,KERN,Inactive Account,High,Open,6,6,6,0,0,6,0
+2024-07,Residential,KERN,Inactive Account,High,Resolved,21,21,0,0,21,21,0
+2024-07,Residential,KERN,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-07,Residential,KERN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,KERN,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-07,Residential,KERN,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-07,Residential,KERN,Missing Meter Read,Medium,Open,4,4,4,0,0,0,4
+2024-07,Residential,KERN,Missing Meter Read,Medium,Resolved,5,5,0,0,5,0,5
+2024-07,Residential,KINGS,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,KINGS,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-07,Residential,LAKE,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-07,Residential,MADERA,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-07,Residential,MADERA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Residential,MADERA,Invalid Meter Read,High,Open,2,2,2,0,0,2,0
+2024-07,Residential,MARIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,MARIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Residential,MENDOCINO,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-07,Residential,MERCED,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-07,Residential,MERCED,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-07,Residential,MERCED,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-07,Residential,MERCED,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-07,Residential,MERCED,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-07,Residential,MONTEREY,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-07,Residential,MONTEREY,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-07,Residential,MONTEREY,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-07,Residential,MONTEREY,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-07,Residential,MONTEREY,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-07,Residential,NAPA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,NAPA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-07,Residential,NAPA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,NAPA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-07,Residential,NEVADA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,NEVADA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Residential,PLACER,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-07,Residential,PLACER,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-07,Residential,PLACER,Inactive Account,High,Resolved,11,11,0,0,11,11,0
+2024-07,Residential,PLACER,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-07,Residential,PLACER,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-07,Residential,PLACER,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-07,Residential,SAN FRANCISCO,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-07,Residential,SAN FRANCISCO,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-07,Residential,SAN FRANCISCO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-07,Residential,SAN FRANCISCO,Invalid Meter Read,High,Open,2,2,2,0,0,2,0
+2024-07,Residential,SAN FRANCISCO,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-07,Residential,SAN FRANCISCO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Residential,SAN JOAQUIN,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-07,Residential,SAN JOAQUIN,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-07,Residential,SAN JOAQUIN,Inactive Account,High,Resolved,7,7,0,0,7,7,0
+2024-07,Residential,SAN JOAQUIN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,SAN JOAQUIN,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-07,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,5,5,0,0,5,0,5
+2024-07,Residential,SAN LUIS OBISPO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-07,Residential,SAN LUIS OBISPO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-07,Residential,SAN LUIS OBISPO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-07,Residential,SAN LUIS OBISPO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Residential,SAN MATEO,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-07,Residential,SAN MATEO,Inactive Account,High,Open,5,5,5,0,0,5,0
+2024-07,Residential,SAN MATEO,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-07,Residential,SAN MATEO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,SAN MATEO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-07,Residential,SAN MATEO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-07,Residential,SANTA BARBARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-07,Residential,SANTA BARBARA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-07,Residential,SANTA BARBARA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,SANTA BARBARA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Residential,SANTA CLARA,Inactive Account,High,In Review,5,5,0,5,0,5,0
+2024-07,Residential,SANTA CLARA,Inactive Account,High,Open,8,8,8,0,0,8,0
+2024-07,Residential,SANTA CLARA,Inactive Account,High,Resolved,23,23,0,0,23,23,0
+2024-07,Residential,SANTA CLARA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-07,Residential,SANTA CLARA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,SANTA CLARA,Invalid Meter Read,High,Resolved,3,3,0,0,3,3,0
+2024-07,Residential,SANTA CLARA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-07,Residential,SANTA CLARA,Missing Meter Read,Medium,Open,4,4,4,0,0,0,4
+2024-07,Residential,SANTA CLARA,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-07,Residential,SANTA CRUZ,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-07,Residential,SANTA CRUZ,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Residential,SHASTA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-07,Residential,SOLANO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,SOLANO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-07,Residential,SOLANO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-07,Residential,SOLANO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-07,Residential,SOLANO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-07,Residential,SONOMA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,SONOMA,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-07,Residential,SUTTER,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-07,Residential,SUTTER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Residential,TUOLUMNE,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-07,Residential,YOLO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-07,Residential,YOLO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-07,Residential,YOLO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-07,Residential,YOLO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-07,Residential,YUBA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Streetlighting,ALAMEDA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-07,Streetlighting,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,Streetlighting,SAN JOAQUIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,"Transportation, Communications, & Utilities",SAN JOAQUIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-07,"Transportation, Communications, & Utilities",SAN JOAQUIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-07,"Transportation, Communications, & Utilities",SAN MATEO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-07,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-08,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-08,Agriculture And Water Pumping,CONTRA COSTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Agriculture And Water Pumping,KERN,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-08,Agriculture And Water Pumping,KERN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-08,Agriculture And Water Pumping,KERN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-08,Agriculture And Water Pumping,KERN,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-08,Agriculture And Water Pumping,KINGS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Agriculture And Water Pumping,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Commercial,ALAMEDA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Commercial,ALAMEDA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-08,Commercial,BUTTE,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-08,Commercial,CONTRA COSTA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-08,Commercial,CONTRA COSTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Commercial,CONTRA COSTA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-08,Commercial,GLENN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Commercial,HUMBOLDT,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Commercial,HUMBOLDT,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-08,Commercial,KERN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Commercial,KERN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Commercial,KERN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-08,Commercial,MADERA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-08,Commercial,MADERA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Commercial,MADERA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Commercial,MERCED,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Commercial,MERCED,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-08,Commercial,MONTEREY,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-08,Commercial,NEVADA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Commercial,PLACER,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-08,Commercial,PLACER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Commercial,SAN JOAQUIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-08,Commercial,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-08,Commercial,SAN LUIS OBISPO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Commercial,SAN MATEO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-08,Commercial,SANTA BARBARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-08,Commercial,SANTA CLARA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-08,Commercial,SANTA CLARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-08,Commercial,SANTA CLARA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-08,Commercial,SANTA CLARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-08,Commercial,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Commercial,TUOLUMNE,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Commercial,YUBA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Industrial,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Industrial,ALAMEDA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Industrial,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Industrial,FRESNO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-08,Industrial,HUMBOLDT,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Industrial,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-08,Industrial,KERN,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-08,Industrial,SAN FRANCISCO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Industrial,SAN JOAQUIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Industrial,SANTA CLARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-08,Industrial,SANTA CLARA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Industrial,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Mining,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Mining,SANTA CLARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-08,Residential,ALAMEDA,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-08,Residential,ALAMEDA,Inactive Account,High,Open,12,12,12,0,0,12,0
+2024-08,Residential,ALAMEDA,Inactive Account,High,Resolved,13,13,0,0,13,13,0
+2024-08,Residential,ALAMEDA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-08,Residential,ALAMEDA,Invalid Meter Read,High,Resolved,3,3,0,0,3,3,0
+2024-08,Residential,ALAMEDA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-08,Residential,ALAMEDA,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-08,Residential,ALAMEDA,Missing Meter Read,Medium,Resolved,4,4,0,0,4,0,4
+2024-08,Residential,AMADOR,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Residential,AMADOR,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-08,Residential,BUTTE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-08,Residential,BUTTE,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-08,Residential,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Residential,COLUSA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-08,Residential,CONTRA COSTA,Inactive Account,High,In Review,5,5,0,5,0,5,0
+2024-08,Residential,CONTRA COSTA,Inactive Account,High,Open,7,7,7,0,0,7,0
+2024-08,Residential,CONTRA COSTA,Inactive Account,High,Resolved,16,16,0,0,16,16,0
+2024-08,Residential,CONTRA COSTA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-08,Residential,CONTRA COSTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-08,Residential,CONTRA COSTA,Missing Meter Read,Medium,Resolved,9,9,0,0,9,0,9
+2024-08,Residential,EL DORADO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-08,Residential,EL DORADO,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-08,Residential,FRESNO,Inactive Account,High,In Review,4,4,0,4,0,4,0
+2024-08,Residential,FRESNO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-08,Residential,FRESNO,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-08,Residential,FRESNO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-08,Residential,FRESNO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-08,Residential,FRESNO,Missing Meter Read,Medium,In Review,3,3,0,3,0,0,3
+2024-08,Residential,FRESNO,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-08,Residential,FRESNO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-08,Residential,GLENN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Residential,KERN,Inactive Account,High,In Review,6,6,0,6,0,6,0
+2024-08,Residential,KERN,Inactive Account,High,Open,11,11,11,0,0,11,0
+2024-08,Residential,KERN,Inactive Account,High,Resolved,18,18,0,0,18,18,0
+2024-08,Residential,KERN,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-08,Residential,KERN,Invalid Meter Read,High,Open,4,4,4,0,0,4,0
+2024-08,Residential,KERN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-08,Residential,KERN,Missing Meter Read,Medium,In Review,4,4,0,4,0,0,4
+2024-08,Residential,KERN,Missing Meter Read,Medium,Open,5,5,5,0,0,0,5
+2024-08,Residential,KERN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Residential,KINGS,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Residential,KINGS,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-08,Residential,KINGS,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-08,Residential,KINGS,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Residential,LAKE,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-08,Residential,MADERA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-08,Residential,MADERA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-08,Residential,MADERA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Residential,MARIN,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-08,Residential,MARIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-08,Residential,MENDOCINO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Residential,MENDOCINO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-08,Residential,MENDOCINO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Residential,MERCED,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-08,Residential,MERCED,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-08,Residential,MERCED,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Residential,MONTEREY,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Residential,MONTEREY,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-08,Residential,MONTEREY,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-08,Residential,MONTEREY,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-08,Residential,MONTEREY,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Residential,NAPA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Residential,NAPA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-08,Residential,NAPA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Residential,NAPA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Residential,NEVADA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-08,Residential,NEVADA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Residential,PLACER,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Residential,PLACER,Inactive Account,High,Open,7,7,7,0,0,7,0
+2024-08,Residential,PLACER,Inactive Account,High,Resolved,7,7,0,0,7,7,0
+2024-08,Residential,PLACER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Residential,SAN FRANCISCO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Residential,SAN FRANCISCO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-08,Residential,SAN FRANCISCO,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-08,Residential,SAN FRANCISCO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-08,Residential,SAN FRANCISCO,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-08,Residential,SAN JOAQUIN,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-08,Residential,SAN JOAQUIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-08,Residential,SAN JOAQUIN,Inactive Account,High,Resolved,9,9,0,0,9,9,0
+2024-08,Residential,SAN JOAQUIN,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-08,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-08,Residential,SAN LUIS OBISPO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Residential,SAN LUIS OBISPO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-08,Residential,SAN MATEO,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-08,Residential,SAN MATEO,Inactive Account,High,Resolved,10,10,0,0,10,10,0
+2024-08,Residential,SAN MATEO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-08,Residential,SAN MATEO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-08,Residential,SAN MATEO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Residential,SANTA BARBARA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-08,Residential,SANTA BARBARA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-08,Residential,SANTA BARBARA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-08,Residential,SANTA BARBARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-08,Residential,SANTA BARBARA,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-08,Residential,SANTA CLARA,Inactive Account,High,In Review,5,5,0,5,0,5,0
+2024-08,Residential,SANTA CLARA,Inactive Account,High,Open,6,6,6,0,0,6,0
+2024-08,Residential,SANTA CLARA,Inactive Account,High,Resolved,25,25,0,0,25,25,0
+2024-08,Residential,SANTA CLARA,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-08,Residential,SANTA CLARA,Missing Meter Read,Medium,In Review,5,5,0,5,0,0,5
+2024-08,Residential,SANTA CLARA,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-08,Residential,SANTA CLARA,Missing Meter Read,Medium,Resolved,11,11,0,0,11,0,11
+2024-08,Residential,SANTA CRUZ,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-08,Residential,SANTA CRUZ,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-08,Residential,SHASTA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-08,Residential,SHASTA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-08,Residential,SHASTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-08,Residential,SHASTA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Residential,SOLANO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Residential,SOLANO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-08,Residential,SONOMA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Residential,SONOMA,Inactive Account,High,Open,4,4,4,0,0,4,0
+2024-08,Residential,SONOMA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Residential,SONOMA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-08,Residential,SONOMA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,Residential,SUTTER,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,Residential,SUTTER,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-08,Residential,SUTTER,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-08,Residential,TUOLUMNE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-08,Residential,YOLO,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-08,Residential,YOLO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Residential,YOLO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-08,Residential,YOLO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-08,Residential,YUBA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Streetlighting,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-08,Streetlighting,SAN JOAQUIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-08,"Transportation, Communications, & Utilities",FRESNO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-08,"Transportation, Communications, & Utilities",SAN MATEO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-08,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-08,"Transportation, Communications, & Utilities",SHASTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-09,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Agriculture And Water Pumping,ALAMEDA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Agriculture And Water Pumping,CONTRA COSTA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Agriculture And Water Pumping,FRESNO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-09,Agriculture And Water Pumping,KERN,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-09,Agriculture And Water Pumping,KINGS,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Agriculture And Water Pumping,PLACER,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Agriculture And Water Pumping,PLACER,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-09,Agriculture And Water Pumping,SAN JOAQUIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Agriculture And Water Pumping,SAN JOAQUIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-09,Agriculture And Water Pumping,SANTA CLARA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-09,Agriculture And Water Pumping,TUOLUMNE,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-09,Commercial,ALAMEDA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-09,Commercial,ALAMEDA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-09,Commercial,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Commercial,ALAMEDA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-09,Commercial,ALAMEDA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Commercial,ALAMEDA,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-09,Commercial,CONTRA COSTA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-09,Commercial,CONTRA COSTA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-09,Commercial,GLENN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Commercial,HUMBOLDT,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Commercial,KERN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Commercial,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Commercial,KERN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-09,Commercial,KERN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Commercial,KERN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-09,Commercial,MADERA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Commercial,MADERA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Commercial,MERCED,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Commercial,NEVADA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Commercial,PLACER,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-09,Commercial,PLACER,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Commercial,SAN FRANCISCO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-09,Commercial,SAN JOAQUIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Commercial,SAN MATEO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Commercial,SANTA BARBARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Commercial,SANTA BARBARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-09,Commercial,SANTA CLARA,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-09,Commercial,SANTA CLARA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-09,Commercial,SANTA CLARA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-09,Commercial,SANTA CLARA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-09,Commercial,SANTA CLARA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-09,Commercial,SANTA CLARA,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-09,Commercial,SHASTA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Commercial,SOLANO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Commercial,TUOLUMNE,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Commercial,YUBA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Industrial,ALAMEDA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Industrial,ALAMEDA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-09,Industrial,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Industrial,FRESNO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-09,Industrial,HUMBOLDT,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Industrial,KERN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Industrial,KERN,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-09,Industrial,KERN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-09,Industrial,KERN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-09,Industrial,SAN FRANCISCO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Industrial,SAN JOAQUIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Industrial,SANTA CLARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Industrial,SANTA CLARA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-09,Industrial,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Mining,FRESNO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Mining,KERN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Mining,SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,ALAMEDA,Inactive Account,High,In Review,5,5,0,5,0,5,0
+2024-09,Residential,ALAMEDA,Inactive Account,High,Open,9,9,9,0,0,9,0
+2024-09,Residential,ALAMEDA,Inactive Account,High,Resolved,14,14,0,0,14,14,0
+2024-09,Residential,ALAMEDA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,ALAMEDA,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-09,Residential,ALAMEDA,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-09,Residential,AMADOR,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,BUTTE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,BUTTE,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-09,Residential,BUTTE,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-09,Residential,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,COLUSA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,CONTRA COSTA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-09,Residential,CONTRA COSTA,Inactive Account,High,Open,8,8,8,0,0,8,0
+2024-09,Residential,CONTRA COSTA,Inactive Account,High,Resolved,18,18,0,0,18,18,0
+2024-09,Residential,CONTRA COSTA,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-09,Residential,CONTRA COSTA,Missing Meter Read,Medium,Open,3,3,3,0,0,0,3
+2024-09,Residential,CONTRA COSTA,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-09,Residential,EL DORADO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,EL DORADO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-09,Residential,FRESNO,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-09,Residential,FRESNO,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-09,Residential,FRESNO,Inactive Account,High,Resolved,7,7,0,0,7,7,0
+2024-09,Residential,FRESNO,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-09,Residential,FRESNO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-09,Residential,FRESNO,Missing Meter Read,Medium,Resolved,4,4,0,0,4,0,4
+2024-09,Residential,GLENN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,KERN,Inactive Account,High,In Review,6,6,0,6,0,6,0
+2024-09,Residential,KERN,Inactive Account,High,Open,15,15,15,0,0,15,0
+2024-09,Residential,KERN,Inactive Account,High,Resolved,14,14,0,0,14,14,0
+2024-09,Residential,KERN,Invalid Meter Read,High,In Review,3,3,0,3,0,3,0
+2024-09,Residential,KERN,Invalid Meter Read,High,Open,3,3,3,0,0,3,0
+2024-09,Residential,KERN,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-09,Residential,KERN,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-09,Residential,KERN,Missing Meter Read,Medium,Open,4,4,4,0,0,0,4
+2024-09,Residential,KERN,Missing Meter Read,Medium,Resolved,5,5,0,0,5,0,5
+2024-09,Residential,KINGS,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Residential,KINGS,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,KINGS,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-09,Residential,KINGS,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-09,Residential,KINGS,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-09,Residential,LAKE,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Residential,LAKE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,LAKE,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-09,Residential,MADERA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,MADERA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-09,Residential,MADERA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,MARIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,MARIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,MENDOCINO,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-09,Residential,MENDOCINO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-09,Residential,MERCED,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Residential,MERCED,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,MERCED,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-09,Residential,MERCED,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-09,Residential,MONTEREY,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Residential,MONTEREY,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,MONTEREY,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-09,Residential,MONTEREY,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-09,Residential,MONTEREY,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-09,Residential,NAPA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-09,Residential,NAPA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-09,Residential,NAPA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,NEVADA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,NEVADA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,PLACER,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-09,Residential,PLACER,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-09,Residential,PLACER,Inactive Account,High,Resolved,9,9,0,0,9,9,0
+2024-09,Residential,PLACER,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,PLACER,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-09,Residential,PLACER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-09,Residential,SAN FRANCISCO,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-09,Residential,SAN FRANCISCO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-09,Residential,SAN FRANCISCO,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-09,Residential,SAN FRANCISCO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-09,Residential,SAN FRANCISCO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-09,Residential,SAN JOAQUIN,Inactive Account,High,In Review,4,4,0,4,0,4,0
+2024-09,Residential,SAN JOAQUIN,Inactive Account,High,Open,4,4,4,0,0,4,0
+2024-09,Residential,SAN JOAQUIN,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-09,Residential,SAN JOAQUIN,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-09,Residential,SAN JOAQUIN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,SAN JOAQUIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-09,Residential,SAN LUIS OBISPO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Residential,SAN LUIS OBISPO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-09,Residential,SAN LUIS OBISPO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,SAN LUIS OBISPO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-09,Residential,SAN MATEO,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-09,Residential,SAN MATEO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-09,Residential,SAN MATEO,Inactive Account,High,Resolved,9,9,0,0,9,9,0
+2024-09,Residential,SAN MATEO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-09,Residential,SAN MATEO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-09,Residential,SANTA BARBARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Residential,SANTA BARBARA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-09,Residential,SANTA CLARA,Inactive Account,High,In Review,4,4,0,4,0,4,0
+2024-09,Residential,SANTA CLARA,Inactive Account,High,Open,14,14,14,0,0,14,0
+2024-09,Residential,SANTA CLARA,Inactive Account,High,Resolved,18,18,0,0,18,18,0
+2024-09,Residential,SANTA CLARA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,SANTA CLARA,Invalid Meter Read,High,Resolved,5,5,0,0,5,5,0
+2024-09,Residential,SANTA CLARA,Missing Meter Read,Medium,Open,5,5,5,0,0,0,5
+2024-09,Residential,SANTA CLARA,Missing Meter Read,Medium,Resolved,9,9,0,0,9,0,9
+2024-09,Residential,SANTA CRUZ,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Residential,SANTA CRUZ,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,SANTA CRUZ,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-09,Residential,SHASTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,SOLANO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Residential,SOLANO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,SOLANO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,SOLANO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-09,Residential,SOLANO,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-09,Residential,SOLANO,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-09,Residential,SONOMA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-09,Residential,SONOMA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,SONOMA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-09,Residential,SONOMA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-09,Residential,SONOMA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,SONOMA,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-09,Residential,SUTTER,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,Residential,SUTTER,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,SUTTER,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,SUTTER,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-09,Residential,SUTTER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-09,Residential,TUOLUMNE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,TUOLUMNE,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-09,Residential,YOLO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-09,Residential,YOLO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-09,Residential,YUBA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Residential,YUBA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-09,Streetlighting,FRESNO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,Streetlighting,PLACER,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-09,Streetlighting,SAN JOAQUIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-09,Streetlighting,SOLANO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-09,"Transportation, Communications, & Utilities",FRESNO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-09,"Transportation, Communications, & Utilities",KERN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-09,"Transportation, Communications, & Utilities",SAN LUIS OBISPO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-09,"Transportation, Communications, & Utilities",SAN MATEO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-09,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-09,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Agriculture And Water Pumping,ALAMEDA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-10,Agriculture And Water Pumping,BUTTE,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-10,Agriculture And Water Pumping,CONTRA COSTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Agriculture And Water Pumping,CONTRA COSTA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-10,Agriculture And Water Pumping,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Agriculture And Water Pumping,KERN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Agriculture And Water Pumping,KINGS,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Agriculture And Water Pumping,SAN JOAQUIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-10,Agriculture And Water Pumping,SAN LUIS OBISPO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-10,Agriculture And Water Pumping,SANTA CLARA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-10,Commercial,ALAMEDA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Commercial,ALAMEDA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-10,Commercial,ALAMEDA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-10,Commercial,ALAMEDA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-10,Commercial,ALAMEDA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-10,Commercial,CONTRA COSTA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-10,Commercial,CONTRA COSTA,Invalid Meter Read,High,Open,2,2,2,0,0,2,0
+2024-10,Commercial,CONTRA COSTA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-10,Commercial,FRESNO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-10,Commercial,FRESNO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-10,Commercial,GLENN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,Commercial,HUMBOLDT,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Commercial,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Commercial,KERN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Commercial,KERN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-10,Commercial,KERN,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-10,Commercial,MADERA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-10,Commercial,MERCED,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Commercial,NEVADA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Commercial,PLACER,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Commercial,PLACER,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Commercial,SAN FRANCISCO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-10,Commercial,SAN JOAQUIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-10,Commercial,SAN MATEO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-10,Commercial,SANTA BARBARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Commercial,SANTA CLARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,Commercial,SANTA CLARA,Inactive Account,High,Open,5,5,5,0,0,5,0
+2024-10,Commercial,SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Commercial,SANTA CLARA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-10,Commercial,SANTA CLARA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-10,Commercial,SANTA CRUZ,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-10,Commercial,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Commercial,SUTTER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-10,Commercial,TUOLUMNE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Commercial,YUBA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Industrial,ALAMEDA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,Industrial,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Industrial,FRESNO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Industrial,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Industrial,HUMBOLDT,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Industrial,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Industrial,KERN,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-10,Industrial,KERN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-10,Industrial,KERN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-10,Industrial,SAN FRANCISCO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Industrial,SAN JOAQUIN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,Industrial,SANTA CLARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,Industrial,SANTA CLARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-10,Industrial,SOLANO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,Mining,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Mining,SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,ALAMEDA,Inactive Account,High,In Review,6,6,0,6,0,6,0
+2024-10,Residential,ALAMEDA,Inactive Account,High,Open,4,4,4,0,0,4,0
+2024-10,Residential,ALAMEDA,Inactive Account,High,Resolved,18,18,0,0,18,18,0
+2024-10,Residential,ALAMEDA,Invalid Meter Read,High,In Review,2,2,0,2,0,2,0
+2024-10,Residential,ALAMEDA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,ALAMEDA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,ALAMEDA,Missing Meter Read,Medium,Resolved,4,4,0,0,4,0,4
+2024-10,Residential,AMADOR,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,AMADOR,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,BUTTE,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-10,Residential,BUTTE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,BUTTE,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,BUTTE,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-10,Residential,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,CALAVERAS,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,CALAVERAS,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-10,Residential,COLUSA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,CONTRA COSTA,Inactive Account,High,In Review,6,6,0,6,0,6,0
+2024-10,Residential,CONTRA COSTA,Inactive Account,High,Open,6,6,6,0,0,6,0
+2024-10,Residential,CONTRA COSTA,Inactive Account,High,Resolved,16,16,0,0,16,16,0
+2024-10,Residential,CONTRA COSTA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-10,Residential,CONTRA COSTA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,CONTRA COSTA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-10,Residential,CONTRA COSTA,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-10,Residential,CONTRA COSTA,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-10,Residential,EL DORADO,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-10,Residential,EL DORADO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-10,Residential,FRESNO,Inactive Account,High,Open,6,6,6,0,0,6,0
+2024-10,Residential,FRESNO,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-10,Residential,FRESNO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,FRESNO,Invalid Meter Read,High,Resolved,4,4,0,0,4,4,0
+2024-10,Residential,FRESNO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-10,Residential,FRESNO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-10,Residential,GLENN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,GLENN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-10,Residential,KERN,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-10,Residential,KERN,Inactive Account,High,Open,15,15,15,0,0,15,0
+2024-10,Residential,KERN,Inactive Account,High,Resolved,18,18,0,0,18,18,0
+2024-10,Residential,KERN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,KERN,Missing Meter Read,Medium,In Review,5,5,0,5,0,0,5
+2024-10,Residential,KERN,Missing Meter Read,Medium,Open,4,4,4,0,0,0,4
+2024-10,Residential,KERN,Missing Meter Read,Medium,Resolved,8,8,0,0,8,0,8
+2024-10,Residential,KINGS,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-10,Residential,KINGS,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,KINGS,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-10,Residential,LAKE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,LAKE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,MADERA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-10,Residential,MADERA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-10,Residential,MADERA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-10,Residential,MARIN,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-10,Residential,MENDOCINO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,Residential,MENDOCINO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-10,Residential,MERCED,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,MERCED,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-10,Residential,MERCED,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,MERCED,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-10,Residential,MONTEREY,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,Residential,MONTEREY,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-10,Residential,MONTEREY,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-10,Residential,MONTEREY,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-10,Residential,NAPA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,Residential,NAPA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-10,Residential,NEVADA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,Residential,NEVADA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,PLACER,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-10,Residential,PLACER,Inactive Account,High,Open,6,6,6,0,0,6,0
+2024-10,Residential,PLACER,Inactive Account,High,Resolved,7,7,0,0,7,7,0
+2024-10,Residential,PLACER,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-10,Residential,PLACER,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-10,Residential,SAN FRANCISCO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,Residential,SAN FRANCISCO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-10,Residential,SAN FRANCISCO,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-10,Residential,SAN FRANCISCO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-10,Residential,SAN FRANCISCO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,SAN FRANCISCO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-10,Residential,SAN FRANCISCO,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-10,Residential,SAN JOAQUIN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,Residential,SAN JOAQUIN,Inactive Account,High,Open,4,4,4,0,0,4,0
+2024-10,Residential,SAN JOAQUIN,Inactive Account,High,Resolved,8,8,0,0,8,8,0
+2024-10,Residential,SAN JOAQUIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-10,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-10,Residential,SAN LUIS OBISPO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,Residential,SAN LUIS OBISPO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,SAN LUIS OBISPO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,SAN LUIS OBISPO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-10,Residential,SAN MATEO,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-10,Residential,SAN MATEO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-10,Residential,SAN MATEO,Inactive Account,High,Resolved,9,9,0,0,9,9,0
+2024-10,Residential,SAN MATEO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-10,Residential,SAN MATEO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,SAN MATEO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-10,Residential,SANTA BARBARA,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-10,Residential,SANTA BARBARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,SANTA BARBARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,SANTA BARBARA,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-10,Residential,SANTA CLARA,Inactive Account,High,In Review,9,9,0,9,0,9,0
+2024-10,Residential,SANTA CLARA,Inactive Account,High,Open,11,11,11,0,0,11,0
+2024-10,Residential,SANTA CLARA,Inactive Account,High,Resolved,16,16,0,0,16,16,0
+2024-10,Residential,SANTA CLARA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-10,Residential,SANTA CLARA,Invalid Meter Read,High,Open,3,3,3,0,0,3,0
+2024-10,Residential,SANTA CLARA,Invalid Meter Read,High,Resolved,4,4,0,0,4,4,0
+2024-10,Residential,SANTA CLARA,Missing Meter Read,Medium,In Review,3,3,0,3,0,0,3
+2024-10,Residential,SANTA CLARA,Missing Meter Read,Medium,Open,4,4,4,0,0,0,4
+2024-10,Residential,SANTA CLARA,Missing Meter Read,Medium,Resolved,4,4,0,0,4,0,4
+2024-10,Residential,SANTA CRUZ,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-10,Residential,SHASTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,SOLANO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,SOLANO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-10,Residential,SOLANO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,SONOMA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,Residential,SONOMA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-10,Residential,SONOMA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-10,Residential,SONOMA,Invalid Meter Read,High,Open,2,2,2,0,0,2,0
+2024-10,Residential,SONOMA,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-10,Residential,SUTTER,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-10,Residential,SUTTER,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,TUOLUMNE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Residential,YOLO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,YOLO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-10,Residential,YUBA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-10,Residential,YUBA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-10,Streetlighting,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,Streetlighting,SAN JOAQUIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-10,"Transportation, Communications, & Utilities",ALAMEDA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-10,"Transportation, Communications, & Utilities",MONTEREY,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-10,"Transportation, Communications, & Utilities",PLACER,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-10,"Transportation, Communications, & Utilities",SAN MATEO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-10,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Agriculture And Water Pumping,CONTRA COSTA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,Agriculture And Water Pumping,FRESNO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-11,Agriculture And Water Pumping,FRESNO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-11,Agriculture And Water Pumping,KERN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,Agriculture And Water Pumping,KERN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Agriculture And Water Pumping,KINGS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Agriculture And Water Pumping,PLACER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Commercial,ALAMEDA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Commercial,ALAMEDA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-11,Commercial,ALAMEDA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-11,Commercial,ALAMEDA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Commercial,CONTRA COSTA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-11,Commercial,FRESNO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-11,Commercial,FRESNO,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-11,Commercial,GLENN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,Commercial,HUMBOLDT,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Commercial,HUMBOLDT,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-11,Commercial,KERN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,Commercial,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Commercial,KERN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-11,Commercial,KERN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Commercial,KINGS,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-11,Commercial,MADERA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Commercial,MADERA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Commercial,MERCED,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Commercial,MERCED,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-11,Commercial,NAPA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-11,Commercial,NEVADA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Commercial,PLACER,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-11,Commercial,PLACER,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-11,Commercial,PLUMAS,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Commercial,SAN JOAQUIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-11,Commercial,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Commercial,SANTA BARBARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Commercial,SANTA CLARA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-11,Commercial,SANTA CLARA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-11,Commercial,SANTA CLARA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-11,Commercial,SANTA CLARA,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-11,Commercial,SANTA CLARA,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-11,Commercial,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Commercial,TUOLUMNE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Commercial,YUBA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Industrial,ALAMEDA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Industrial,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Industrial,FRESNO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,Industrial,FRESNO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Industrial,HUMBOLDT,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Industrial,HUMBOLDT,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-11,Industrial,KERN,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-11,Industrial,MARIN,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-11,Industrial,MARIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-11,Industrial,PLACER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Industrial,SAN FRANCISCO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Industrial,SAN JOAQUIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Industrial,SAN JOAQUIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-11,Industrial,SANTA BARBARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-11,Industrial,SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Industrial,SANTA CLARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-11,Industrial,SOLANO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Mining,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Mining,SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Residential,ALAMEDA,Inactive Account,High,In Review,6,6,0,6,0,6,0
+2024-11,Residential,ALAMEDA,Inactive Account,High,Open,11,11,11,0,0,11,0
+2024-11,Residential,ALAMEDA,Inactive Account,High,Resolved,11,11,0,0,11,11,0
+2024-11,Residential,ALAMEDA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-11,Residential,ALAMEDA,Invalid Meter Read,High,Open,4,4,4,0,0,4,0
+2024-11,Residential,ALAMEDA,Invalid Meter Read,High,Resolved,3,3,0,0,3,3,0
+2024-11,Residential,ALAMEDA,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-11,Residential,ALAMEDA,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-11,Residential,AMADOR,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,Residential,BUTTE,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-11,Residential,BUTTE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Residential,CALAVERAS,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Residential,COLUSA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Residential,COLUSA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Residential,CONTRA COSTA,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-11,Residential,CONTRA COSTA,Inactive Account,High,Open,9,9,9,0,0,9,0
+2024-11,Residential,CONTRA COSTA,Inactive Account,High,Resolved,16,16,0,0,16,16,0
+2024-11,Residential,CONTRA COSTA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-11,Residential,CONTRA COSTA,Missing Meter Read,Medium,Open,3,3,3,0,0,0,3
+2024-11,Residential,EL DORADO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Residential,EL DORADO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-11,Residential,EL DORADO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-11,Residential,EL DORADO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Residential,FRESNO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-11,Residential,FRESNO,Inactive Account,High,Resolved,10,10,0,0,10,10,0
+2024-11,Residential,FRESNO,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-11,Residential,FRESNO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-11,Residential,FRESNO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-11,Residential,GLENN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Residential,HUMBOLDT,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-11,Residential,KERN,Inactive Account,High,In Review,7,7,0,7,0,7,0
+2024-11,Residential,KERN,Inactive Account,High,Open,10,10,10,0,0,10,0
+2024-11,Residential,KERN,Inactive Account,High,Resolved,18,18,0,0,18,18,0
+2024-11,Residential,KERN,Invalid Meter Read,High,In Review,2,2,0,2,0,2,0
+2024-11,Residential,KERN,Invalid Meter Read,High,Resolved,4,4,0,0,4,4,0
+2024-11,Residential,KERN,Missing Meter Read,Medium,Open,4,4,4,0,0,0,4
+2024-11,Residential,KERN,Missing Meter Read,Medium,Resolved,5,5,0,0,5,0,5
+2024-11,Residential,KINGS,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Residential,KINGS,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-11,Residential,LAKE,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,Residential,LAKE,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Residential,MADERA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,Residential,MADERA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Residential,MADERA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-11,Residential,MARIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Residential,MARIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Residential,MARIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-11,Residential,MARIN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Residential,MENDOCINO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Residential,MENDOCINO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-11,Residential,MERCED,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,Residential,MERCED,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Residential,MERCED,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-11,Residential,MERCED,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-11,Residential,MONTEREY,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,Residential,MONTEREY,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-11,Residential,MONTEREY,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-11,Residential,MONTEREY,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-11,Residential,MONTEREY,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Residential,NAPA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,Residential,NAPA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-11,Residential,NAPA,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-11,Residential,NEVADA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Residential,NEVADA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Residential,NEVADA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Residential,PLACER,Inactive Account,High,Open,6,6,6,0,0,6,0
+2024-11,Residential,PLACER,Inactive Account,High,Resolved,9,9,0,0,9,9,0
+2024-11,Residential,PLACER,Missing Meter Read,Medium,Open,3,3,3,0,0,0,3
+2024-11,Residential,PLACER,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Residential,SAN FRANCISCO,Inactive Account,High,Open,4,4,4,0,0,4,0
+2024-11,Residential,SAN FRANCISCO,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-11,Residential,SAN FRANCISCO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-11,Residential,SAN FRANCISCO,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-11,Residential,SAN FRANCISCO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-11,Residential,SAN FRANCISCO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Residential,SAN JOAQUIN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,Residential,SAN JOAQUIN,Inactive Account,High,Open,6,6,6,0,0,6,0
+2024-11,Residential,SAN JOAQUIN,Inactive Account,High,Resolved,6,6,0,0,6,6,0
+2024-11,Residential,SAN JOAQUIN,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-11,Residential,SAN JOAQUIN,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-11,Residential,SAN JOAQUIN,Missing Meter Read,Medium,In Review,3,3,0,3,0,0,3
+2024-11,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-11,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Residential,SAN LUIS OBISPO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-11,Residential,SAN LUIS OBISPO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Residential,SAN LUIS OBISPO,Missing Meter Read,Medium,Open,3,3,3,0,0,0,3
+2024-11,Residential,SAN LUIS OBISPO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Residential,SAN MATEO,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-11,Residential,SAN MATEO,Inactive Account,High,Open,5,5,5,0,0,5,0
+2024-11,Residential,SAN MATEO,Inactive Account,High,Resolved,5,5,0,0,5,5,0
+2024-11,Residential,SAN MATEO,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-11,Residential,SAN MATEO,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-11,Residential,SAN MATEO,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-11,Residential,SANTA BARBARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Residential,SANTA BARBARA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-11,Residential,SANTA BARBARA,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-11,Residential,SANTA BARBARA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-11,Residential,SANTA CLARA,Inactive Account,High,In Review,3,3,0,3,0,3,0
+2024-11,Residential,SANTA CLARA,Inactive Account,High,Open,8,8,8,0,0,8,0
+2024-11,Residential,SANTA CLARA,Inactive Account,High,Resolved,25,25,0,0,25,25,0
+2024-11,Residential,SANTA CLARA,Invalid Meter Read,High,In Review,4,4,0,4,0,4,0
+2024-11,Residential,SANTA CLARA,Invalid Meter Read,High,Open,4,4,4,0,0,4,0
+2024-11,Residential,SANTA CLARA,Invalid Meter Read,High,Resolved,7,7,0,0,7,7,0
+2024-11,Residential,SANTA CLARA,Missing Meter Read,Medium,In Review,4,4,0,4,0,0,4
+2024-11,Residential,SANTA CLARA,Missing Meter Read,Medium,Open,4,4,4,0,0,0,4
+2024-11,Residential,SANTA CLARA,Missing Meter Read,Medium,Resolved,8,8,0,0,8,0,8
+2024-11,Residential,SANTA CRUZ,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-11,Residential,SANTA CRUZ,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-11,Residential,SHASTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Residential,SHASTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-11,Residential,SOLANO,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-11,Residential,SOLANO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-11,Residential,SONOMA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,Residential,SONOMA,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-11,Residential,SONOMA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-11,Residential,SONOMA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-11,Residential,SONOMA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,Residential,SUTTER,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,Residential,SUTTER,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Residential,SUTTER,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Residential,SUTTER,Missing Meter Read,Medium,Resolved,2,2,0,0,2,0,2
+2024-11,Residential,TUOLUMNE,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,Residential,YOLO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-11,Residential,YOLO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-11,Residential,YOLO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-11,Residential,YUBA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-11,Streetlighting,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,Streetlighting,SAN JOAQUIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-11,"Transportation, Communications, & Utilities",BUTTE,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,"Transportation, Communications, & Utilities",KERN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-11,"Transportation, Communications, & Utilities",SAN MATEO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-11,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-11,"Transportation, Communications, & Utilities",SANTA CLARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-12,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Agriculture And Water Pumping,ALAMEDA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,Agriculture And Water Pumping,CONTRA COSTA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,Agriculture And Water Pumping,CONTRA COSTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-12,Agriculture And Water Pumping,KERN,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-12,Agriculture And Water Pumping,KINGS,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Commercial,ALAMEDA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-12,Commercial,ALAMEDA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-12,Commercial,ALAMEDA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-12,Commercial,ALAMEDA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-12,Commercial,CONTRA COSTA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-12,Commercial,CONTRA COSTA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-12,Commercial,GLENN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Commercial,HUMBOLDT,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Commercial,KERN,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-12,Commercial,KERN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-12,Commercial,MADERA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-12,Commercial,MADERA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,Commercial,MARIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-12,Commercial,MERCED,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,Commercial,NEVADA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Commercial,PLACER,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-12,Commercial,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-12,Commercial,SAN LUIS OBISPO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-12,Commercial,SANTA BARBARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-12,Commercial,SANTA CLARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-12,Commercial,SANTA CLARA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-12,Commercial,SANTA CLARA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-12,Commercial,SANTA CLARA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-12,Commercial,SOLANO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Commercial,TUOLUMNE,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-12,Commercial,YUBA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Industrial,ALAMEDA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-12,Industrial,ALAMEDA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-12,Industrial,ALAMEDA,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-12,Industrial,CALAVERAS,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-12,Industrial,FRESNO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-12,Industrial,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,Industrial,HUMBOLDT,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,Industrial,KERN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Industrial,KERN,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-12,Industrial,KERN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-12,Industrial,SAN FRANCISCO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Industrial,SAN JOAQUIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Industrial,SANTA BARBARA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-12,Industrial,SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,Industrial,SOLANO,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-12,Mining,FRESNO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,Mining,SANTA CLARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Mining,SANTA CLARA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,ALAMEDA,Inactive Account,High,In Review,5,5,0,5,0,5,0
+2024-12,Residential,ALAMEDA,Inactive Account,High,Open,5,5,5,0,0,5,0
+2024-12,Residential,ALAMEDA,Inactive Account,High,Resolved,18,18,0,0,18,18,0
+2024-12,Residential,ALAMEDA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-12,Residential,ALAMEDA,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-12,Residential,ALAMEDA,Missing Meter Read,Medium,Open,3,3,3,0,0,0,3
+2024-12,Residential,ALAMEDA,Missing Meter Read,Medium,Resolved,5,5,0,0,5,0,5
+2024-12,Residential,AMADOR,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Residential,AMADOR,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-12,Residential,BUTTE,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-12,Residential,BUTTE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Residential,CALAVERAS,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-12,Residential,CALAVERAS,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-12,Residential,CALAVERAS,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,COLUSA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-12,Residential,CONTRA COSTA,Inactive Account,High,In Review,4,4,0,4,0,4,0
+2024-12,Residential,CONTRA COSTA,Inactive Account,High,Open,8,8,8,0,0,8,0
+2024-12,Residential,CONTRA COSTA,Inactive Account,High,Resolved,16,16,0,0,16,16,0
+2024-12,Residential,CONTRA COSTA,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-12,Residential,CONTRA COSTA,Invalid Meter Read,High,Open,3,3,3,0,0,3,0
+2024-12,Residential,CONTRA COSTA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,CONTRA COSTA,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-12,Residential,CONTRA COSTA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-12,Residential,EL DORADO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-12,Residential,EL DORADO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,FRESNO,Inactive Account,High,In Review,4,4,0,4,0,4,0
+2024-12,Residential,FRESNO,Inactive Account,High,Open,6,6,6,0,0,6,0
+2024-12,Residential,FRESNO,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-12,Residential,FRESNO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-12,Residential,FRESNO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-12,Residential,FRESNO,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-12,Residential,GLENN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,GLENN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-12,Residential,KERN,Inactive Account,High,In Review,8,8,0,8,0,8,0
+2024-12,Residential,KERN,Inactive Account,High,Open,12,12,12,0,0,12,0
+2024-12,Residential,KERN,Inactive Account,High,Resolved,15,15,0,0,15,15,0
+2024-12,Residential,KERN,Invalid Meter Read,High,In Review,3,3,0,3,0,3,0
+2024-12,Residential,KERN,Invalid Meter Read,High,Open,2,2,2,0,0,2,0
+2024-12,Residential,KERN,Invalid Meter Read,High,Resolved,5,5,0,0,5,5,0
+2024-12,Residential,KERN,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-12,Residential,KERN,Missing Meter Read,Medium,Open,5,5,5,0,0,0,5
+2024-12,Residential,KERN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-12,Residential,KINGS,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-12,Residential,KINGS,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Residential,KINGS,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-12,Residential,KINGS,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-12,Residential,KINGS,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-12,Residential,LAKE,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-12,Residential,MADERA,Inactive Account,High,Resolved,4,4,0,0,4,4,0
+2024-12,Residential,MARIN,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Residential,MARIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,MARIN,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-12,Residential,MENDOCINO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-12,Residential,MENDOCINO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-12,Residential,MERCED,Inactive Account,High,Resolved,7,7,0,0,7,7,0
+2024-12,Residential,MERCED,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-12,Residential,MERCED,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-12,Residential,MERCED,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-12,Residential,MONTEREY,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-12,Residential,MONTEREY,Inactive Account,High,Open,5,5,5,0,0,5,0
+2024-12,Residential,MONTEREY,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,NAPA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Residential,NAPA,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-12,Residential,NAPA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-12,Residential,NEVADA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-12,Residential,NEVADA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Residential,NEVADA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-12,Residential,PLACER,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-12,Residential,PLACER,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-12,Residential,PLACER,Inactive Account,High,Resolved,11,11,0,0,11,11,0
+2024-12,Residential,SAN FRANCISCO,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-12,Residential,SAN FRANCISCO,Inactive Account,High,Open,4,4,4,0,0,4,0
+2024-12,Residential,SAN FRANCISCO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-12,Residential,SAN FRANCISCO,Invalid Meter Read,High,Resolved,2,2,0,0,2,2,0
+2024-12,Residential,SAN FRANCISCO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-12,Residential,SAN JOAQUIN,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-12,Residential,SAN JOAQUIN,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-12,Residential,SAN JOAQUIN,Inactive Account,High,Resolved,10,10,0,0,10,10,0
+2024-12,Residential,SAN JOAQUIN,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,SAN JOAQUIN,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-12,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-12,Residential,SAN JOAQUIN,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-12,Residential,SAN LUIS OBISPO,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-12,Residential,SAN LUIS OBISPO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,SAN LUIS OBISPO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-12,Residential,SAN MATEO,Inactive Account,High,In Review,4,4,0,4,0,4,0
+2024-12,Residential,SAN MATEO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Residential,SAN MATEO,Inactive Account,High,Resolved,8,8,0,0,8,8,0
+2024-12,Residential,SAN MATEO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-12,Residential,SAN MATEO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,SAN MATEO,Missing Meter Read,Medium,In Review,1,1,0,1,0,0,1
+2024-12,Residential,SAN MATEO,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-12,Residential,SANTA BARBARA,Inactive Account,High,In Review,1,1,0,1,0,1,0
+2024-12,Residential,SANTA BARBARA,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-12,Residential,SANTA BARBARA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-12,Residential,SANTA BARBARA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-12,Residential,SANTA CLARA,Inactive Account,High,In Review,2,2,0,2,0,2,0
+2024-12,Residential,SANTA CLARA,Inactive Account,High,Open,12,12,12,0,0,12,0
+2024-12,Residential,SANTA CLARA,Inactive Account,High,Resolved,22,22,0,0,22,22,0
+2024-12,Residential,SANTA CLARA,Invalid Meter Read,High,In Review,2,2,0,2,0,2,0
+2024-12,Residential,SANTA CLARA,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-12,Residential,SANTA CLARA,Invalid Meter Read,High,Resolved,3,3,0,0,3,3,0
+2024-12,Residential,SANTA CLARA,Missing Meter Read,Medium,In Review,2,2,0,2,0,0,2
+2024-12,Residential,SANTA CLARA,Missing Meter Read,Medium,Open,4,4,4,0,0,0,4
+2024-12,Residential,SANTA CLARA,Missing Meter Read,Medium,Resolved,6,6,0,0,6,0,6
+2024-12,Residential,SANTA CRUZ,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-12,Residential,SANTA CRUZ,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,SHASTA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Residential,SOLANO,Inactive Account,High,Resolved,3,3,0,0,3,3,0
+2024-12,Residential,SOLANO,Invalid Meter Read,High,In Review,1,1,0,1,0,1,0
+2024-12,Residential,SOLANO,Invalid Meter Read,High,Open,1,1,1,0,0,1,0
+2024-12,Residential,SOLANO,Missing Meter Read,Medium,Open,2,2,2,0,0,0,2
+2024-12,Residential,SONOMA,Inactive Account,High,Open,4,4,4,0,0,4,0
+2024-12,Residential,SONOMA,Inactive Account,High,Resolved,2,2,0,0,2,2,0
+2024-12,Residential,SONOMA,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,SONOMA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1
+2024-12,Residential,SUTTER,Inactive Account,High,Open,2,2,2,0,0,2,0
+2024-12,Residential,SUTTER,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,SUTTER,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,TUOLUMNE,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Residential,YOLO,Inactive Account,High,Open,3,3,3,0,0,3,0
+2024-12,Residential,YOLO,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,YOLO,Invalid Meter Read,High,Resolved,1,1,0,0,1,1,0
+2024-12,Residential,YOLO,Missing Meter Read,Medium,Open,1,1,1,0,0,0,1
+2024-12,Residential,YOLO,Missing Meter Read,Medium,Resolved,3,3,0,0,3,0,3
+2024-12,Residential,YUBA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,Streetlighting,FRESNO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,Streetlighting,SAN JOAQUIN,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,"Transportation, Communications, & Utilities",SAN MATEO,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Open,1,1,1,0,0,1,0
+2024-12,"Transportation, Communications, & Utilities",SANTA CLARA,Inactive Account,High,Resolved,1,1,0,0,1,1,0
+2024-12,"Transportation, Communications, & Utilities",SANTA CLARA,Missing Meter Read,Medium,Resolved,1,1,0,0,1,0,1

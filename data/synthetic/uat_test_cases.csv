@@ -1,0 +1,11 @@
+test_case_id,requirement_id,process_area,test_description,expected_result,actual_result,pass_fail
+UAT001,REQ-BILL-001,Billing,Generate a monthly bill for an active account with a valid meter read.,Bill is generated with a calculated bill amount.,Pass,Pass
+UAT002,REQ-BILL-002,Billing,Prevent normal bill generation when the meter read is missing.,Bill is placed in Exception status with no bill amount.,Pass,Pass
+UAT003,REQ-BILL-003,Billing,Prevent normal bill generation when the meter read is invalid or negative.,Bill is placed in Exception status with no bill amount.,Pass,Pass
+UAT004,REQ-RATE-001,Rates,Apply the correct customer-segment rate plan during bill calculation.,Bill amount reflects the assigned rate plan base charge and tiered usage rates.,Pass,Pass
+UAT005,REQ-MTR-001,Meter Reads,Generate one monthly meter read per active meter and billing cycle.,Each meter has one read per monthly billing cycle.,Pass,Pass
+UAT006,REQ-MTR-002,Meter Reads,Allow estimated meter reads to produce bills while retaining estimated read status.,Estimated reads can be billed and remain marked as Estimated.,Pass,Pass
+UAT007,REQ-EXC-001,Exceptions,Create a billing exception for missing or invalid meter reads.,Billing exception record is created and linked to the bill and account.,Pass,Pass
+UAT008,REQ-EXC-002,Exceptions,Assign severity and resolution status to billing exceptions.,Exception includes severity and resolution status.,Pass,Pass
+UAT009,REQ-SR-001,Service Requests,Create service requests from billing exceptions.,"Service request is created and linked to the exception, bill, account, and customer.",Pass,Pass
+UAT010,REQ-DQ-001,Data Quality,Flag inactive accounts with billing activity as data quality exceptions.,Inactive-account billing records are classified as high-severity exceptions.,Pass,Pass

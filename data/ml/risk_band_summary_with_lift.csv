@@ -1,0 +1,4 @@
+risk_band,account_cycle_records,actual_exceptions,avg_predicted_risk,actual_exception_rate,lift_vs_low_risk
+High,9005,3386,0.658,0.376,13.5745
+Medium,20995,1186,0.3853,0.0565,2.0393
+Low,30000,831,0.3091,0.0277,1.0

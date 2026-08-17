@@ -1,0 +1,8 @@
+sector,residential_nonresidential,annual_gwh,avg_monthly_gwh
+Commercial,Non-Residential,27535.4,2294.62
+Residential,Residential,26280.11,2190.01
+Industrial,Non-Residential,10002.32,833.53
+Agriculture And Water Pumping,Non-Residential,5219.5,434.96
+"Transportation, Communications, & Utilities",Non-Residential,4134.96,344.58
+Mining,Non-Residential,1893.33,157.78
+Streetlighting,Non-Residential,271.96,22.66

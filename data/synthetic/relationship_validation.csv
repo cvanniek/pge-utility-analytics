@@ -1,0 +1,10 @@
+relationship_check,orphan_record_count
+service_accounts_without_customer,0
+meters_without_account,0
+meter_reads_without_meter,0
+meter_reads_without_account,0
+bills_without_account,0
+bills_without_customer,0
+exceptions_without_bill,0
+exceptions_without_account,0
+service_requests_without_account,0
